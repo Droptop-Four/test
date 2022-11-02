@@ -2,6 +2,20 @@
     "apps": [
         {
             "app": {
+                "id": 17,
+                "name": "Game",
+                "author": "Bunz",
+                "author_link": "",
+                "desc": "descrizione bells",
+                "version": "1.265",
+                "official_link": "#",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Game%20-%20Bunz.rmskin",
+                "secondary_link": "#",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Game-Bunz.webp"
+            }
+        },
+        {
+            "app": {
                 "id": 16,
                 "name": "Feeder",
                 "author": "Cariboudjan",
