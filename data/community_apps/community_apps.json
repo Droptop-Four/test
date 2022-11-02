@@ -2,6 +2,20 @@
     "apps": [
         {
             "app": {
+                "id": 20,
+                "name": "Daofjhj kjh l",
+                "author": "jkh lkjh",
+                "author_link": "",
+                "desc": "descriz ione",
+                "version": "12.21",
+                "official_link": "#",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Daofjhj%20kjh%20l%20-%20jkh%20lkjh%20(Droptop%20App).rmskin",
+                "secondary_link": "#",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Daofjhj_kjh_l-jkh_lkjh.webp"
+            }
+        },
+        {
+            "app": {
                 "id": 19,
                 "name": "titolo2",
                 "author": "atore",
