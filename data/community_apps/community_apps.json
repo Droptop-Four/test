@@ -3,15 +3,15 @@
         {
             "app": {
                 "id": 17,
-                "name": "Test",
+                "name": "Test2",
                 "author": "Bunz",
                 "author_link": "",
                 "desc": "descrizione bells",
-                "version": "1.265",
+                "version": "1.298",
                 "official_link": "#",
-                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Game%20-%20Bunz.rmskin",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Test2%20-%20Bunz.rmskin",
                 "secondary_link": "#",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Game-Bunz.webp"
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Test2-Bunz.webp"
             }
         },
         {
