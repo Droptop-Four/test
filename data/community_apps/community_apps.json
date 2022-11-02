@@ -2,6 +2,20 @@
     "apps": [
         {
             "app": {
+                "id": 19,
+                "name": "titolo2",
+                "author": "atore",
+                "author_link": "",
+                "desc": "descrizione bella",
+                "version": "11.02",
+                "official_link": "#",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/titolo2%20-%20atore%20(Droptop%20App).rmskin",
+                "secondary_link": "#",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/titolo2-atore.webp"
+            }
+        },
+        {
+            "app": {
                 "id": 18,
                 "name": "molto bella",
                 "author": "aut re",
