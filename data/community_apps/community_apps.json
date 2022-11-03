@@ -2,6 +2,20 @@
     "apps": [
         {
             "app": {
+                "id": 27,
+                "name": "Test App 2",
+                "author": "Bunz",
+                "author_link": "#",
+                "desc": "ashsdlkfj dsfj òlsdjf aòldskj",
+                "version": "1.3",
+                "official_link": "#",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Test%20App%202%20-%20Bunz%20(Droptop%20App).rmskin",
+                "secondary_link": "#",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Test_App_2-Bunz.webp"
+            }
+        },
+        {
+            "app": {
                 "id": 26,
                 "name": "Test App",
                 "author": "Bunz",
