@@ -2,6 +2,19 @@
     "themes": [
         {
             "theme": {
+                "id": 19,
+                "name": "temino",
+                "author": "autor",
+                "author_link": "#",
+                "desc": "sdf \nsad\nasd\n",
+                "official_link": "#",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/temino%20-%20autor%20(Droptop%20Theme).rmskin",
+                "secondary_link": "#",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/temino-autor.webp"
+            }
+        },
+        {
+            "theme": {
                 "id": 18,
                 "name": "Titolo",
                 "author": "bunz",
