@@ -2,27 +2,6 @@
     "apps": [
         {
             "app": {
-                "id": 20,
-                "uuid": "df5afbcd-c6e4-460b-977e-c3261c0acca4",
-                "name": "JaxCore2",
-                "author": "JaxCore",
-                "author_id": 330345930198876161,
-                "author_link": "https://github.com/66Bunz",
-                "desc": "test desc",
-                "version": "2.56",
-                "official_link": "",
-                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/JaxCore2%20-%20JaxCore%20(Droptop%20App).rmskin.rmskin",
-                "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/JaxCore2-JaxCore.webp",
-                "authorised_members": [
-                    330345930198876161,
-                    584542239900827665,
-                    330345930198876161
-                ]
-            }
-        },
-        {
-            "app": {
                 "id": 19,
                 "uuid": "1155ce9d-1666-49a4-bce3-305c34ed4414",
                 "name": "Daily Test",
