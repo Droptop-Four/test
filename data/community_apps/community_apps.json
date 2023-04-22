@@ -2,6 +2,138 @@
     "apps": [
         {
             "app": {
+                "id": 23,
+                "uuid": "cc805bf4-30aa-42c0-b42f-bc61241d9c0c",
+                "name": "Hide Settings Menu",
+                "author": "TheyCallMePapa",
+                "author_id": 392012772189274112,
+                "author_link": "",
+                "desc": "I built this app after a suggestion from @Desmond Alohan.  It does what it's title says...hides the home button.  App has a toggle to show the home button without unloading the app.",
+                "version": "23.0415",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Hide%20Settings%20Menu%20-%20TheyCallMePapa%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/v3/data/community_apps/img/Hide_Settings_Menu-TheyCallMePapa.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    392012772189274112
+                ],
+                "hidden": 0
+            }
+        },
+        {
+            "app": {
+                "id": 22,
+                "uuid": "4ecb4989-6331-4e27-ab86-3fdc9de86aea",
+                "name": "Usage Monitor",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "A simple System Monitor for Droptop with official support",
+                "version": "23.0304",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Usage%20Monitor%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Usage_Monitor-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    584542239900827665
+                ],
+                "hidden": 0
+            }
+        },
+        {
+            "app": {
+                "id": 21,
+                "uuid": "19eb436e-d6b3-47a1-b7e7-ba05841e595d",
+                "name": "VPN Status",
+                "author": "Mike Boynton",
+                "author_id": 392012772189274112,
+                "author_link": "https://github.com/papa-boynton",
+                "desc": "Version 0.91\n\n    Shows status of your VPN (connected/not connected)\n    Displays status of vpn, location, local ip address and map with approximate location\n    Droptop icon changes from red when disconnected to green when connected\n\nVersion 1.0\n\n    Fixed issue with dot not scaling properly, many thanks to @Cariboudjan for all his help with this.\n\nVersion 1.01\n\n    Small bug fix, cosmetic changes.\n\nVersion 1.01.1\n\n    Minor bug fix.\n\nVersion 1.02\n   New improved vpn detection measure.\n   Fixed small bug to convert all funny characters \n   into proper characters.  Thanks to @Cariboudjan \n   for the regex help.",
+                "version": "23.0417",
+                "official_link": "https://github.com/papa-boynton/VPN_Status/releases/tag/Latest",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/VPN%20Status%20-%20Mike%20Boynton%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/VPN_Status-Mike_Boynton.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    392012772189274112
+                ],
+                "hidden": 0
+            }
+        },
+        {
+            "app": {
+                "id": 20,
+                "uuid": "c95fe03f-56b3-42a5-9f14-86f371680e13",
+                "name": "QRes",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "https://github.com/Cariboudjan",
+                "desc": "Select up to three different screen resolutions & refresh rates and with one-click quick swap between multiple display settings",
+                "version": "23.0209",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/QRes%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/QRes-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    584542239900827665
+                ],
+                "hidden": 0
+            }
+        },
+        {
+            "app": {
+                "id": 18,
+                "uuid": "125338ea-c1b7-492b-9aa1-2e55432f7c13",
+                "name": "Theme Me",
+                "author": "Mike Boynton",
+                "author_id": 392012772189274112,
+                "author_link": "https://github.com/papa-boynton",
+                "desc": "Allows you to select a random Droptop theme and you can save up to eight custom themes and hot load them.\nNo need to install a custom theme again once it is saved.\n\nFeatures\n\n    Toggle Theme Previews\n    Random theme every 24hrs, 1hr or 1 minute.\n    Toggle random theme feature on/off\n    Shows you the theme you are currently using.\n\nVersion 1.03\n\nMinor cosmetic changes\nAdded link to Droptop's Theme Builder App",
+                "version": "22.1229",
+                "official_link": "https://github.com/papa-boynton/Theme_Me-Mike_Boynton/releases/tag/v1.03",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Theme%20Me%20-%20Mike%20Boynton%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Theme_Me-Mike_Boynton.webp",
+                "authorised_members": [
+                    584542239900827665,
+                    330345930198876161,
+                    392012772189274112
+                ],
+                "hidden": 0
+            }
+        },
+        {
+            "app": {
+                "id": 16,
+                "uuid": "27aeb9cd-be20-400d-857c-4b199aeadae1",
+                "name": "Feeder",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "https://github.com/Cariboudjan",
+                "desc": "RSS Feeder for Lifehacker, CBS News, LA Times, CNN Top Stories, Ars Technica, New York Times, and UN News.",
+                "version": "23.0402",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Feeder%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Feeder-Cariboudjan.webp",
+                "authorised_members": [
+                    584542239900827665,
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0
+            }
+        },
+        {
+            "app": {
                 "id": 14,
                 "uuid": "c6bfeed4-6179-41cd-9ac9-322652111cf9",
                 "name": "Game Hub",
@@ -9,7 +141,7 @@
                 "author_id": 561681705782607882,
                 "author_link": "",
                 "desc": "This is a community app to keep your favorite games organized.",
-                "version": "0.5",
+                "version": "23.0225",
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Game%20Hub%20-%20Phan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -18,7 +150,8 @@
                     584542239900827665,
                     330345930198876161,
                     561681705782607882
-                ]
+                ],
+                "hidden": 0
             }
         },
         {
@@ -30,7 +163,7 @@
                 "author_id": 561681705782607882,
                 "author_link": "",
                 "desc": "This is a community app that allwos you to add a shortcut of any program or file in your Droptop bar.",
-                "version": "0.6",
+                "version": "22.1215",
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Shortcut%20-%20Phan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -39,7 +172,8 @@
                     584542239900827665,
                     330345930198876161,
                     561681705782607882
-                ]
+                ],
+                "hidden": 0
             }
         },
         {
@@ -49,10 +183,10 @@
                 "name": "SearchBar",
                 "author": "Mike Boynton",
                 "author_id": 392012772189274112,
-                "author_link": "",
+                "author_link": "https://github.com/papa-boynton",
                 "desc": "Search from a variety of search engines & stores in just a few clicks",
-                "version": "2.1",
-                "official_link": "",
+                "version": "22.1210",
+                "official_link": "https://github.com/papa-boynton/SearchBar-Mike_Boynton",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/SearchBar%20-%20Mike%20Boynton%20(Droptop%20App).rmskin",
                 "secondary_link": "",
                 "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/SearchBar-Mike_Boynton.webp",
@@ -60,28 +194,8 @@
                     584542239900827665,
                     330345930198876161,
                     392012772189274112
-                ]
-            }
-        },
-        {
-            "app": {
-                "id": 11,
-                "uuid": "77b82067-a549-47f9-89ae-756165ae3bd0",
-                "name": "Gradient Bar",
-                "author": "Phan",
-                "author_id": 561681705782607882,
-                "author_link": "",
-                "desc": "This is a community app that allows you to customize the colors of the top bar.",
-                "version": "0.7",
-                "official_link": "",
-                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Gradient%20Bar%20-%20Phan%20(Droptop%20App).rmskin",
-                "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Gradient_Bar-Phan.webp",
-                "authorised_members": [
-                    584542239900827665,
-                    330345930198876161,
-                    561681705782607882
-                ]
+                ],
+                "hidden": 0
             }
         },
         {
@@ -93,7 +207,7 @@
                 "author_id": 584542239900827665,
                 "author_link": "https://github.com/Cariboudjan",
                 "desc": "On compatible themes, one-click toggle switching between dark mode and light mode.",
-                "version": "1.0",
+                "version": "22.1125",
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Color%20Mode%20Toggle%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -102,7 +216,8 @@
                     584542239900827665,
                     330345930198876161,
                     584542239900827665
-                ]
+                ],
+                "hidden": 0
             }
         },
         {
@@ -114,7 +229,7 @@
                 "author_id": 709053559836246137,
                 "author_link": "https://github.com/Yaron2334",
                 "desc": "Alternative WebNowPlaying media control center.Requires the WebNowPlaying extension for Chrome, Brave, Firefox, or Edge browsers.",
-                "version": "1.1.1",
+                "version": "23.0403",
                 "official_link": "https://github.com/Yaron2334/Media-Control",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Media%20Control%20-%20Yaron%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -123,7 +238,8 @@
                     584542239900827665,
                     330345930198876161,
                     709053559836246137
-                ]
+                ],
+                "hidden": 0
             }
         },
         {
@@ -135,37 +251,17 @@
                 "author_id": 341522422836625408,
                 "author_link": "https://github.com/EnhancedJax",
                 "desc": "Allows integration of Vallistart 3.0 with the Droptop home button, as well as shortcuts to YourMixer, QuickNotes, and Keylauncher from JaxCore.\n- JaxCore and related modules required\n- Module download links included inside app.",
-                "version": "1.0",
+                "version": "22.1215",
                 "official_link": "",
-                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/JaxCore%20-%20JaxCore%20(Droptop%20App).rmskin",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/JaxCore%20-%20Jax%20(Droptop%20App).rmskin",
                 "secondary_link": "",
                 "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/JaxCore-Jax.webp",
                 "authorised_members": [
                     584542239900827665,
                     330345930198876161,
                     341522422836625408
-                ]
-            }
-        },
-        {
-            "app": {
-                "id": 7,
-                "uuid": "e4e90147-d711-46a7-93c7-2455b7975691",
-                "name": "System Monitor",
-                "author": "Yaron",
-                "author_id": 709053559836246137,
-                "author_link": "https://github.com/Yaron2334",
-                "desc": "Displays CPU, GPU, RAM, Voltage, and other system resources within the app and on the top bar.",
-                "version": "1.6.0818",
-                "official_link": "https://github.com/Yaron2334/SystemMonitor",
-                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/System%20Monitor%20-%20Yaron%20(Droptop%20App).rmskin",
-                "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/System_Monitor-Yaron.webp",
-                "authorised_members": [
-                    584542239900827665,
-                    330345930198876161,
-                    709053559836246137
-                ]
+                ],
+                "hidden": 0
             }
         },
         {
@@ -177,7 +273,7 @@
                 "author_id": 584542239900827665,
                 "author_link": "https://github.com/Cariboudjan",
                 "desc": "Toggles the Quick Settings menu (Win+A) in Windows 11, or the Action Center in Windows 10.",
-                "version": "1.0",
+                "version": "22.1215",
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Quick%20Settings%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -186,7 +282,8 @@
                     584542239900827665,
                     330345930198876161,
                     584542239900827665
-                ]
+                ],
+                "hidden": 0
             }
         },
         {
@@ -198,7 +295,7 @@
                 "author_id": 561681705782607882,
                 "author_link": "",
                 "desc": "Shortcuts of up to 5 disk drives and displays remaining gigabytes.",
-                "version": "1.5",
+                "version": "23.0208",
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Disks%20-%20Phan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -207,7 +304,8 @@
                     584542239900827665,
                     330345930198876161,
                     561681705782607882
-                ]
+                ],
+                "hidden": 0
             }
         },
         {
@@ -219,7 +317,7 @@
                 "author_id": 561681705782607882,
                 "author_link": "",
                 "desc": "Displays the recycle bin. The bin icon will change depending on how much is in the recycle bin. Drag & drop to the icon to delete files.",
-                "version": "1.1",
+                "version": "22.1209",
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Recycle%20Bin%20-%20Phan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -228,7 +326,8 @@
                     584542239900827665,
                     330345930198876161,
                     561681705782607882
-                ]
+                ],
+                "hidden": 0
             }
         },
         {
@@ -240,7 +339,7 @@
                 "author_id": 736395826670207088,
                 "author_link": "",
                 "desc": "Shows your IP and location information.",
-                "version": "1.8",
+                "version": "22.1125",
                 "official_link": "https://github.com/notAperson535/Location-For-Droptop",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Location%20-%20notAperson%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -249,7 +348,30 @@
                     584542239900827665,
                     330345930198876161,
                     736395826670207088
-                ]
+                ],
+                "hidden": 0
+            }
+        },
+        {
+            "app": {
+                "id": 2,
+                "uuid": "b7a7627e-96c7-4c42-a6ac-6d199f7ba378",
+                "name": "Daily Quotes",
+                "author": "Bunz",
+                "author_id": 330345930198876161,
+                "author_link": "https://github.com/66Bunz",
+                "desc": "Shows a series of quotes, updating daily. Cycles through a new quote every 20 seconds, or use the scroll wheel to cycle through them manually.\n\ntesttest",
+                "version": "22.1215",
+                "official_link": "https://github.com/66Bunz/DroptopFour-DailyQuotes",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Daily%20Quotes%20-%20Bunz%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Daily_Quotes-Bunz.webp",
+                "authorised_members": [
+                    584542239900827665,
+                    330345930198876161,
+                    330345930198876161
+                ],
+                "hidden": 0
             }
         },
         {
@@ -261,7 +383,7 @@
                 "author_id": 584542239900827665,
                 "author_link": "https://github.com/Cariboudjan",
                 "desc": "Default Sample App that shows what you can achieve by creating your own custom app.",
-                "version": "2.0",
+                "version": "23.0403",
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Sample%20App%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -270,7 +392,8 @@
                     584542239900827665,
                     330345930198876161,
                     584542239900827665
-                ]
+                ],
+                "hidden": 0
             }
         }
     ]
