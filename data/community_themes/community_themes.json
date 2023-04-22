@@ -2,6 +2,28 @@
     "themes": [
         {
             "theme": {
+                "id": 26,
+                "uuid": "46460aa2-2e2c-4368-b8d4-6a25b3691085",
+                "name": "Sample Template",
+                "author": "Cari",
+                "author_id": 330345930198876161,
+                "author_link": "cicico",
+                "desc": "description",
+                "version": "23.0422",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/test/raw/main/Themes/Sample%20Template%20-%20Cari%20(Droptop%20Theme).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/test/main/data/community_themes/img/Sample_Template-Cari.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    330345930198876161
+                ],
+                "hidden": 0
+            }
+        },
+        {
+            "theme": {
                 "id": 25,
                 "uuid": "e6bdd6c9-e079-444f-a36a-44093e3fef75",
                 "name": "Aperture Science",
