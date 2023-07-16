@@ -1,6 +1,6 @@
 {
     "date": 23.0716,
-    "expiration": "none",
+    "expiration": 23.0717,
     "announcement": "This is a warning announcement test.",
     "type": "warning",
     "scope": "website"
