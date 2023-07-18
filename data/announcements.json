@@ -1,7 +1,7 @@
 {
     "date": "23.0718",
-    "expiration": "None",
-    "announcement": "This is an announcement 6",
-    "type": "Info",
-    "scope": "Website & App"
+    "expiration": "23.0720",
+    "announcement": "This is a new announcement",
+    "type": "Warning",
+    "scope": "App"
 }
