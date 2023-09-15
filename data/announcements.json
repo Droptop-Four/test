@@ -1,14 +1,14 @@
 {
     "app": {
-        "date": 0,
+        "date": 2023.0915,
         "expiration": "None",
-        "announcement": "",
-        "type": ""
+        "announcement": "THis is a new test",
+        "type": "Important"
     },
     "website": {
-        "date": 0,
+        "date": 2023.0915,
         "expiration": "None",
-        "announcement": "",
-        "type": ""
+        "announcement": "THis is a new test",
+        "type": "Important"
     }
 }
