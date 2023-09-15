@@ -1,7 +1,14 @@
 {
-    "date": 2023.0915,
-    "expiration": "None",
-    "announcement": "Test test",
-    "type": "warning",
-    "scope": "website & app"
+    "app": {
+        "date": 0,
+        "expiration": "None",
+        "announcement": "",
+        "type": ""
+    },
+    "website": {
+        "date": 0,
+        "expiration": "None",
+        "announcement": "",
+        "type": ""
+    }
 }
