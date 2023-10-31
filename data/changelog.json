@@ -1,29 +1,46 @@
 {
-  "changelog": [
-    {
-      "version": "4.330.30",
-      "new_features": [],
-      "modifications": [],
-      "bug_fixes": [
-        "Fixed a bug with the Update app not working properly",
-        "Fixed a bug with the Supporter version not installing correctly",
-        "Minor bug fixes"
-      ]
-    },
-    {
-      "version": "4.330.28",
-      "new_features": [
-        "Added new options `Droptop settings >> Options >> Shadows >> Top bar highlight shadow` and `Dropdown highlight shadow`"
-      ],
-      "modifications": [
-        "Bar will no longer flash when refreshing or on startup",
-        "Minor modifications to Windows 12, Tranquil, and Flat & Solid themes",
-        "Double middle clicking on the \"Beta\" icon in the top bar will now remove the icon (Beta version only)"
-      ],
-      "bug_fixes": [
-        "Fixed bug causing lag when scrolling in dropdown menus",
-        "Minor bug fixes"
-      ]
-    }
-  ]
+    "changelog": [
+        {
+            "version": "4.330.30",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed a bug with the Update app not working properly",
+                "Fixed a bug with the Supporter version not installing correctly",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.330.28",
+            "new_features": [
+                "Added new options `Droptop settings >> Options >> Shadows >> Top bar highlight shadow` and `Dropdown highlight shadow`"
+            ],
+            "modifications": [
+                "Bar will no longer flash when refreshing or on startup",
+                "Minor modifications to Windows 12, Tranquil, and Flat & Solid themes",
+                "Double middle clicking on the \"Beta\" icon in the top bar will now remove the icon (Beta version only)"
+            ],
+            "bug_fixes": [
+                "Fixed bug causing lag when scrolling in dropdown menus",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.560.98",
+            "new_features": [
+                "- ciahs fasj dfasdf",
+                "- asdfh asdpofiasdf alskfd",
+                "aò asdkjf"
+            ],
+            "modifications": [
+                "- coshdfoija",
+                "- asodfjasdfj ",
+                "- asd oif asdf",
+                "- sadpofa sdfoj"
+            ],
+            "bug_fixes": [
+                "- asodif asdofjalòskdjf asdf"
+            ]
+        }
+    ]
 }
