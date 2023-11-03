@@ -20,7 +20,12 @@
                     392012772189274112
                 ],
                 "hidden": 0,
-                "changelog": []
+                "changelog": [
+                    {
+                        "version": "23.1025",
+                        "changenotes": "new feature"
+                    }
+                ]
             }
         },
         {
