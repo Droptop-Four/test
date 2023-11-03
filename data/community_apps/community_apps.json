@@ -50,6 +50,10 @@
                 "hidden": 0,
                 "changelog": [
                     {
+                        "version": "23.1025",
+                        "changenotes": "this is a new changenote"
+                    },
+                    {
                         "version": "23.0415",
                         "changenotes": "old changenote"
                     }
