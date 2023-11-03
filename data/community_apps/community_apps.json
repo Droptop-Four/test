@@ -47,7 +47,13 @@
                     584542239900827665,
                     584542239900827665
                 ],
-                "hidden": 0
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "23.0415",
+                        "changenotes": "old changenote"
+                    }
+                ]
             }
         },
         {
