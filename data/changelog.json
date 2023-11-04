@@ -97,6 +97,19 @@
             ]
         },
         {
+            "version": "4.330.56",
+            "new_features": [
+                "new feature"
+            ],
+            "modifications": [
+                "new mod 1",
+                "new mod 2"
+            ],
+            "bug_fixes": [
+                ""
+            ]
+        },
+        {
             "version": "4.330.30",
             "new_features": [],
             "modifications": [],
