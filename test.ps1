@@ -1,1 +1,1 @@
-Write-Host "This is a test!!"
+Write-Host "$variable"
