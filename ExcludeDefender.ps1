@@ -1,6 +1,3 @@
-$skinspath=$args[0]
-$programpath=$args[1]
-
 $folderPath = "$skinspath"
 
 $isAdmin = ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)
