@@ -1,9 +1,9 @@
 {
     "app": {
-        "date": 2023.0915,
-        "expiration": "None",
-        "announcement": "THis is a new test",
-        "type": "Important"
+        "date": 23.1216,
+        "expiration": 23.1217,
+        "announcement": "this is a testy test",
+        "type": "<built-in method lower of str object at 0x7f93ac500ff0>"
     },
     "website": {
         "date": 23.0916,
