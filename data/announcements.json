@@ -2,8 +2,8 @@
     "app": {
         "date": 23.1216,
         "expiration": 23.1217,
-        "announcement": "this is a testy test",
-        "type": "<built-in method lower of str object at 0x7f93ac500ff0>"
+        "announcement": "testtt",
+        "type": "warning"
     },
     "website": {
         "date": 23.1216,
