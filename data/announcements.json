@@ -6,9 +6,9 @@
         "type": ""
     },
     "website": {
-        "date": 23.1212,
-        "expiration": 23.1217,
-        "announcement": "This is a test",
-        "type": "warning"
+        "date": null,
+        "expiration": "None",
+        "announcement": "",
+        "type": ""
     }
 }
