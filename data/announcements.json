@@ -1,14 +1,14 @@
 {
     "app": {
-        "date": 23.1216,
-        "expiration": 23.1216,
-        "announcement": "this should work",
-        "type": "info"
+        "date": null,
+        "expiration": null,
+        "announcement": "",
+        "type": ""
     },
     "website": {
-        "date": 23.1216,
-        "expiration": 23.1219,
-        "announcement": "ggs",
-        "type": "important"
+        "date": null,
+        "expiration": null,
+        "announcement": "",
+        "type": ""
     }
 }
