@@ -1,14 +1,14 @@
 {
     "app": {
-        "date": null,
-        "expiration": null,
-        "announcement": "",
-        "type": ""
+        "date": 23.1212,
+        "expiration": 23.1217,
+        "announcement": "This is a test",
+        "type": "warning"
     },
     "website": {
-        "date": null,
-        "expiration": null,
-        "announcement": "",
-        "type": ""
+        "date": 23.1212,
+        "expiration": 23.1217,
+        "announcement": "This is a test",
+        "type": "warning"
     }
 }
