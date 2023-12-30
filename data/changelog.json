@@ -1,136 +1,115 @@
 {
     "changelog": [
         {
-            "version": "4.561.114",
+            "version": "4.330.96",
             "new_features": [
-                "new feat"
+                "Droptop now has support for WebView apps; New option in `Droptop settings >> Community apps >> Create new app` to create a WebView app (Requires the Sample WebView app from the Community Apps store page)"
             ],
-            "modifications": [
-                ""
-            ],
+            "modifications": [],
             "bug_fixes": [
-                "fix"
+                "Minor bug fixes"
             ]
         },
         {
-            "version": "4.561.102",
-            "new_features": [
-                "tet"
-            ],
-            "modifications": [
-                ""
-            ],
+            "version": "4.330.89",
+            "new_features": [],
+            "modifications": [],
             "bug_fixes": [
-                ""
+                "Fixed issue with Droptop Updater"
             ]
         },
         {
-            "version": "4.561.26",
-            "new_features": [
-                "l,mznxc, vnxv zc x",
-                ",.mcn zxc"
-            ],
+            "version": "4.330.88",
+            "new_features": [],
             "modifications": [
-                ""
+                "Meters on Demand will now be accessible when the beta is installed",
+                "New Copilot icon for the Assistant app",
+                "Selecting themes in settings menu now has a more compact format",
+                "Reduced hover time for opening submenus from 300ms to 200ms"
             ],
             "bug_fixes": [
-                ".m, zx jxvzoijopfja df"
+                "Slightly snappier settings menu navigation",
+                "Reduced scrolling lag in dropdown menus",
+                "Stability improvements",
+                "Minor bug fixes"
             ]
         },
         {
-            "version": "4.561.26",
+            "version": "4.330.83",
             "new_features": [
-                "safl asdfpasdfl asd",
-                "asdflkj sdfpj"
+                "Added new option `Droptop settings >> App settings >> Time >> Change time format >> Show seconds text`",
+                "Added new option `Droptop settings >> App settings >> Time >> Change time format >> Show seconds bar`",
+                "Updated Paperclip app; Clicking the Paperclip app now shows a dropdown menu that includes shortcuts for clipboard, emojis, taking a screenshot, and case modification, as well as the ability to add up to 19 shortcuts."
             ],
             "modifications": [
-                ""
+                "Clicking on the playback device name in the Volume app now triggers the Win+G shortcut",
+                "Voice Assistant now opens Copilot on Windows 11",
+                "Paperclip app will now be active in the bar by default (New installs only)",
+                "`Show seconds bar` will now be enabled by default (New installs only)"
             ],
             "bug_fixes": [
-                "asdlòk asdfplk asdf asdf"
+                "Minor bug fixes"
             ]
         },
         {
-            "version": "4.561.25",
+            "version": "4.330.74",
             "new_features": [
-                "alsòdkj adsfòlkj asd",
-                "asdkjf hasdf"
+                "When using `Show only backlight icon` in Battery settings, the icon will now change to reflect the current backlight percentage"
             ],
-            "modifications": [
-                ""
-            ],
+            "modifications": [],
             "bug_fixes": [
-                "sadlfasdfò òlksdfj lsdfk"
+                "Fixed battery icon staying yellow (Battery Saver) when device is plugged in",
+                "Fixed bug that would cause incorrect color for the battery meter; Battery meter will now only show as red if the power is below 20%, Battery Saver is not on, and the device is not charging",
+                "Minor bug fixes"
             ]
         },
         {
-            "version": "4.560.99",
+            "version": "4.330.62",
             "new_features": [
-                "asdlfk asd fàòlasdf asdf",
-                "sdòf asdfkj"
+                "Pressing `Download & install all updates` in the Update app will now open a new window that will show the latest change notes (As they appear on Discord) before downloading the update."
             ],
             "modifications": [
-                ""
+                "Double-right clicking on the home button will now open shortcuts for editing various parts of Droptop",
+                "A green star will now appear in the Droptop Size Setting menu for the recommended option based on display height",
+                "Community Apps will now include a unique GUID when compiled (For Developers only)"
             ],
             "bug_fixes": [
-                "asdfklj asdlfkjasdf asdf"
+                "Fixed a bug that prevented Droptop from updating properly",
+                "Minor bug fixes"
             ]
         },
         {
-            "version": "4.560.98",
+            "version": "4.330.53",
             "new_features": [
-                "- ciahs fasj dfasdf",
-                "- asdfh asdpofiasdf alskfd",
-                "aò asdkjf"
+                "Added new option to Time settings to set a custom time format",
+                "Added new option `Droptop settings >> Options >> Advanced >> Disable hover actions`",
+                "Added new option to Battery settings to set percentage when to activate Battery Saver (Windows 11 only)",
+                "Battery meter will now turn Yellow when battery saver is on (Windows 11 only)"
             ],
             "modifications": [
-                "- coshdfoija",
-                "- asodfjasdfj ",
-                "- asd oif asdf",
-                "- sadpofa sdfoj"
+                "Added option to set Battery Saver color for battery meter to Theme Builder",
+                "Improvements to Windows 12 theme"
             ],
             "bug_fixes": [
-                "- asodif asdofjalòskdjf asdf"
+                "Windows will no longer move when Droptop is refreshed; AppBar will no longer refresh with each Droptop refresh",
+                "Fixed custom time formats not working for center clock",
+                "Battery Saver percentage option will now be disabled on Windows 10",
+                "Minor bug fixes"
             ]
         },
         {
-            "version": "4.525.23",
+            "version": "4.330.38",
             "new_features": [
-                "asòdlfj a"
+                "Added new tabs to the Rename Folder menu in Settings; Added additional unicode icons",
+                "Added screenshot option to the Share Community App window when compiling a Community App RMSKIN",
+                "Added input box inside the submenu within Recent app"
             ],
-            "modifications": [
-                ""
-            ],
+            "modifications": [],
             "bug_fixes": [
-                " asdfas df asdf",
-                "asdf asdf"
-            ]
-        },
-        {
-            "version": "4.525.23",
-            "new_features": [
-                "òalsjkfaòsldjf ",
-                "asfkj asdfò asfa"
-            ],
-            "modifications": [
-                ""
-            ],
-            "bug_fixes": [
-                "fasòdlkj fas",
-                "sdf jas df"
-            ]
-        },
-        {
-            "version": "4.330.56",
-            "new_features": [
-                "new feature"
-            ],
-            "modifications": [
-                "new mod 1",
-                "new mod 2"
-            ],
-            "bug_fixes": [
-                ""
+                "Fixed an issue with Application names not truncating over 18 characters - Thank you @KazukiGames82",
+                "Backlight slider will no longer show as 0 when opening the battery app - Thank you @KazukiGames82",
+                "Multiple minor bug fixes found by @KazukiGames82",
+                "Fixed bug that caused Desktop Navigator to stop working if Explorer.exe crashes and restarts; Droptop will now do a full restart instead of a refresh after an Explorer.exe crash @KazukiGames82"
             ]
         },
         {
@@ -159,16 +138,73 @@
             ]
         },
         {
-            "version": "4.101.65",
-            "new_features": [
-                "- asdfh asdf"
-            ],
+            "version": "4.330.135",
+            "new_features": [],
             "modifications": [
-                "- asdkjfhas dfas",
-                "- saldfjka sdòflj"
+                "Droptop Community Apps that have an update available will now show a green dot next to the app's icon in the top bar. When right-clicking on the app, a new \"Update available\" button will be available to download the latest update.",
+                "Droptop will now direct the user to GitHub to download the latest update; Auto-update script decommissioned due to compatibility issues.",
+                "Updated language files (All languages)"
             ],
             "bug_fixes": [
-                "- asòldjalsdkfj"
+                "Stability improvements",
+                "Fixed bug that could cause infinite loop crash if a certain part of Droptop were right-clicked on",
+                "All PowerShell scripts will now run with ExecutionPolicy set to Restricted",
+                "Fixed a bug that caused folders not to automatically be renamed when using a non-english language (First installs only)",
+                "Fixed Community App, Theme, and Commands generation",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.330.12",
+            "new_features": [
+                "In the Update app, clicking the \"Download all updates\" button will now download & install the latest Droptop update, and update all Community Apps in one click",
+                "Added Pomodomo timer function to the Alarm app",
+                "Middle clicking on an app in the Toggle Apps On/Off menu will now activate dividers between apps in the bar",
+                "Added option to toggle Battery Life History in Battery app to settings",
+                "Added Divider Width and Divider Height options to Theme Builder"
+            ],
+            "modifications": [],
+            "bug_fixes": [
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.330.105",
+            "new_features": [],
+            "modifications": [
+                "Minor changes to the Tutorial",
+                "Improvements to the Sample WebView app template"
+            ],
+            "bug_fixes": [
+                "Reduced lag when navigating dropdown and submenus",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.321.84",
+            "new_features": [
+                "New Community Theme included with new installations of Droptop \"Ladies Night\"",
+                "Added new option to select icon pack for the top bar in Theme Builder"
+            ],
+            "modifications": [
+                "Improvements to Windows 12 theme",
+                "Performance improvements when navigating dropdown menus",
+                "Dropdown menu background corner radius will now scale with the PC's DPI setting"
+            ],
+            "bug_fixes": [
+                "Major stability improvements",
+                "Fixed bug where compiling a Community App, Theme, or Commands would not generate a working RMSKIN.",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.321.77",
+            "new_features": [],
+            "modifications": [
+                "Updated all languages to their most up-to-date translation versions"
+            ],
+            "bug_fixes": [
+                "Minor bug fixes"
             ]
         }
     ]
