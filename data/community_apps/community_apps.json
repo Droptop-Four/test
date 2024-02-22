@@ -1575,6 +1575,10 @@
                     {
                         "version": "23.1208",
                         "changenotes": "Updated for compatibility with Droptop 4.360"
+                    },
+                    {
+                        "version": "23.1208",
+                        "changenotes": "test"
                     }
                 ]
             }
@@ -1603,10 +1607,6 @@
                     {
                         "version": "24.0108",
                         "changenotes": "Minor bug fix"
-                    },
-                    {
-                        "version": "24.0108",
-                        "changenotes": "test"
                     },
                     {
                         "version": "23.1203",
