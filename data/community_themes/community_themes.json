@@ -2,24 +2,186 @@
     "themes": [
         {
             "theme": {
-                "id": 26,
-                "uuid": "46460aa2-2e2c-4368-b8d4-6a25b3691085",
-                "name": "Sample Template",
-                "author": "Cari",
+                "id": 33,
+                "uuid": "17654fd5-801a-473a-878f-105963ef547d",
+                "name": "Catppuccin_Mocha",
+                "author": "Bunz",
                 "author_id": 330345930198876161,
-                "author_link": "cicico",
-                "desc": "description\n\n1. image\n2. image\n3. image\n4. image\n5. image\n6. image",
-                "version": "23.0422",
+                "author_link": "",
+                "desc": "",
+                "version": "24.0222",
                 "official_link": "",
-                "direct_download_link": "https://github.com/Droptop-Four/test/raw/main/Themes/Sample%20Template%20-%20Cari%20(Droptop%20Theme).rmskin",
+                "direct_download_link": "https://github.com/Droptop-Four/test/raw/main/Themes/Catppuccin%20Mocha%20-%20Bunz%20(Droptop%20Theme).rmskin",
                 "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/test/main/data/community_themes/img/Sample_Template-Cari.webp",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/test/main/data/community_themes/img/Catppuccin_Mocha-Bunz.webp",
                 "authorised_members": [
                     330345930198876161,
                     584542239900827665,
                     330345930198876161
                 ],
-                "hidden": 0
+                "hidden": 0,
+                "changelog": []
+            }
+        },
+        {
+            "theme": {
+                "id": 32,
+                "uuid": "0f9a4b60-9493-41ba-938c-cafbfb52cfa2",
+                "name": "PixelatedBlue",
+                "author": "rook 1",
+                "author_id": 330345930198876161,
+                "author_link": "",
+                "desc": "A blue hue of pixelated calm. Perfect for those nights when you're all cozy under your blanket.",
+                "version": "24.0126",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/PixelatedBlue%20-%20rook%201%20(Droptop%20Theme).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/PixelatedBlue_-_rook_1_Droptop_Theme.rmskin.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    330345930198876161
+                ],
+                "hidden": 0,
+                "changelog": []
+            }
+        },
+        {
+            "theme": {
+                "id": 31,
+                "uuid": "57e901fa-1ba6-40a0-abc4-a019bc03c994",
+                "name": "BE OS",
+                "author": "TheyCallMePapa",
+                "author_id": 392012772189274112,
+                "author_link": "",
+                "desc": "BE OS is a defunct operating system from the 90's",
+                "version": "24.0112",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/BE%20OS%20-%20TheyCallMePapa%20(Droptop%20Theme).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/BE_OS_-_TheyCallMePapa_Droptop_Theme.rmskin.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    392012772189274112
+                ],
+                "hidden": 0,
+                "changelog": []
+            }
+        },
+        {
+            "theme": {
+                "id": 30,
+                "uuid": "74d305b9-edc4-4195-b93f-00d75cb2c853",
+                "name": "Red Warm",
+                "author": "ZEDATAR",
+                "author_id": 788257471726092289,
+                "author_link": "",
+                "desc": "Its a clean, nice theme. It goes well with a wallpaper that is more red then black and has a very tiny hint of blue.",
+                "version": "24.0105",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Red%20Warm%20-%20ZEDATAR%20(Droptop%20Theme).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Red_Warm_-_ZEDATAR_Droptop_Theme.rmskin.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    788257471726092289
+                ],
+                "hidden": 0,
+                "changelog": []
+            }
+        },
+        {
+            "theme": {
+                "id": 29,
+                "uuid": "b565ae78-6aa3-47e0-9f09-91f118358fe9",
+                "name": "Catppuccin 2",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "",
+                "version": "23.1104",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Catppuccin%202%20-%20Cariboudjan%20(Droptop%20Theme).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Catppuccin_2-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": []
+            }
+        },
+        {
+            "theme": {
+                "id": 28,
+                "uuid": "11fcdb5e-8bd6-48d4-90fd-a859d18f6047",
+                "name": "Ladies Night",
+                "author": "Tuxedo Mask",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "How mysterious...",
+                "version": "23.1027",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Ladies%20Night%20-%20Tuxedo%20Mask%20(Droptop%20Theme).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Ladies_Night-Tuxedo_Mask.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": []
+            }
+        },
+        {
+            "theme": {
+                "id": 27,
+                "uuid": "575a53f4-6bc1-4c1b-8abb-d50a9bb7a8c8",
+                "name": "Clean Purple",
+                "author": "mxkusei",
+                "author_id": 424575542956785684,
+                "author_link": "https://github.com/Mxkusei",
+                "desc": "Purple theme (inspired by the catppuccin color palette)",
+                "version": "23.0721",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Clean%20Purple%20-%20mxkusei%20(Droptop%20Theme).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Clean_Purple-mxkusei.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    424575542956785684
+                ],
+                "hidden": 0,
+                "changelog": []
+            }
+        },
+        {
+            "theme": {
+                "id": 26,
+                "uuid": "fce10933-14cc-4e9d-9f8a-7135e30aa513",
+                "name": "Cozy Blue",
+                "author": "Bunz",
+                "author_id": 330345930198876161,
+                "author_link": "https://github.com/66Bunz",
+                "desc": "Recommended wallpaper is Cozy anime street (https://steamcommunity.com/sharedfiles/filedetails/?id=2376307588) for Wallpaper Engine",
+                "version": "23.0626",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Cozy%20Blue%20-%20Bunz%20(Droptop%20Theme).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_themes/img/Cozy_Blue-Bunz.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    330345930198876161
+                ],
+                "hidden": 0,
+                "changelog": []
             }
         },
         {
@@ -31,17 +193,18 @@
                 "author_id": 392012772189274112,
                 "author_link": "",
                 "desc": "Theme was one of Droptop's pre-installed themes for supporters prior to v 4.310.31  Released as a community theme.",
-                "version": "23.0413",
+                "version": "24.0112",
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Aperture%20Science%20-%20TheyCallMePapa%20(Droptop%20Theme).rmskin",
                 "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/test/main/data/community_themes/img/Aperture_Science-TheyCallMePapa.webp",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/v3/data/community_themes/img/Aperture_Science-TheyCallMePapa.webp",
                 "authorised_members": [
                     330345930198876161,
                     584542239900827665,
                     392012772189274112
                 ],
-                "hidden": 0
+                "hidden": 0,
+                "changelog": []
             }
         },
         {
@@ -51,19 +214,20 @@
                 "name": "Rounded Purism",
                 "author": "Alex Vance",
                 "author_id": 692024080278487111,
-                "author_link": "https://github.com/AlexTheOutsider22",
+                "author_link": "",
                 "desc": "A Rounded, Somewhat Centered Theme, best Used as a minimalist theme.",
                 "version": "23.0406",
-                "official_link": "https://github.com/AlexTheOutsider22/DropTopThemes",
+                "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Rounded%20Purism%20-%20Alex%20Vance%20(Droptop%20Theme).rmskin",
                 "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/test/main/data/community_themes/img/Rounded_Purism-Alex_Vance.webp",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/v3/data/community_themes/img/Rounded_Purism-Alex_Vance.webp",
                 "authorised_members": [
                     330345930198876161,
                     584542239900827665,
                     692024080278487111
                 ],
-                "hidden": 0
+                "hidden": 0,
+                "changelog": []
             }
         },
         {
@@ -79,13 +243,14 @@
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Enigma%20-%20Cariboudjan%20(Droptop%20Theme).rmskin",
                 "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/test/main/data/community_themes/img/Enigma-Cariboudjan.webp",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/v3/data/community_themes/img/Enigma-Cariboudjan.webp",
                 "authorised_members": [
                     330345930198876161,
                     584542239900827665,
                     584542239900827665
                 ],
-                "hidden": 0
+                "hidden": 0,
+                "changelog": []
             }
         },
         {
@@ -101,13 +266,14 @@
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Windows%20XP%20-%20aegiswing%20(Droptop%20Theme).rmskin",
                 "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/test/main/data/community_themes/img/Windows_XP-aegiswing.webp",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/v3/data/community_themes/img/Windows_XP-aegiswing.webp",
                 "authorised_members": [
                     330345930198876161,
                     584542239900827665,
                     396031926663905312
                 ],
-                "hidden": 0
+                "hidden": 0,
+                "changelog": []
             }
         },
         {
@@ -123,13 +289,14 @@
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Odin%20Dark%20-%20Chloe%20S%20(Droptop%20Theme).rmskin",
                 "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/test/main/data/community_themes/img/Odin_Dark-Chloe_S.webp",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/v3/data/community_themes/img/Odin_Dark-Chloe_S.webp",
                 "authorised_members": [
                     330345930198876161,
                     584542239900827665,
                     584542239900827665
                 ],
-                "hidden": 0
+                "hidden": 0,
+                "changelog": []
             }
         },
         {
@@ -145,13 +312,14 @@
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Odin%20Light%20-%20Chloe%20S%20(Droptop%20Theme).rmskin",
                 "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/test/main/data/community_themes/img/Odin_Light-Chloe_S.webp",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/v3/data/community_themes/img/Odin_Light-Chloe_S.webp",
                 "authorised_members": [
                     330345930198876161,
                     584542239900827665,
                     584542239900827665
                 ],
-                "hidden": 0
+                "hidden": 0,
+                "changelog": []
             }
         },
         {
@@ -167,13 +335,14 @@
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Undertale%20Red%20-%20SixSiege%20(Droptop%20Theme).rmskin",
                 "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/test/main/data/community_themes/img/Undertale_Red-SixSiege.webp",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/v3/data/community_themes/img/Undertale_Red-SixSiege.webp",
                 "authorised_members": [
                     330345930198876161,
                     584542239900827665,
                     493346676166361091
                 ],
-                "hidden": 0
+                "hidden": 0,
+                "changelog": []
             }
         },
         {
@@ -189,13 +358,14 @@
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Vaporwave%20-%20Cariboudjan%20(Droptop%20Theme).rmskin",
                 "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/test/main/data/community_themes/img/Vaporwave-Cariboudjan.webp",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/v3/data/community_themes/img/Vaporwave-Cariboudjan.webp",
                 "authorised_members": [
                     330345930198876161,
                     584542239900827665,
                     584542239900827665
                 ],
-                "hidden": 0
+                "hidden": 0,
+                "changelog": []
             }
         },
         {
@@ -211,13 +381,14 @@
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Everblush%20-%20smokepasta%20(Droptop%20Theme).rmskin",
                 "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/test/main/data/community_themes/img/Everblush-smokepasta.webp",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/v3/data/community_themes/img/Everblush-smokepasta.webp",
                 "authorised_members": [
                     330345930198876161,
                     584542239900827665,
                     226134257616158720
                 ],
-                "hidden": 0
+                "hidden": 0,
+                "changelog": []
             }
         },
         {
@@ -233,13 +404,14 @@
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Tokyo%20Night%20-%20PyBash%20(Droptop%20Theme).rmskin",
                 "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/test/main/data/community_themes/img/Tokyo_Night-PyBash.webp",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/v3/data/community_themes/img/Tokyo_Night-PyBash.webp",
                 "authorised_members": [
                     330345930198876161,
                     584542239900827665,
                     626461325744275464
                 ],
-                "hidden": 0
+                "hidden": 0,
+                "changelog": []
             }
         },
         {
@@ -255,13 +427,14 @@
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Droptop%203%20-%20Cariboudjan%20(Droptop%20Theme).rmskin",
                 "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/test/main/data/community_themes/img/Droptop_3-Cariboudjan.webp",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/v3/data/community_themes/img/Droptop_3-Cariboudjan.webp",
                 "authorised_members": [
                     330345930198876161,
                     584542239900827665,
                     584542239900827665
                 ],
-                "hidden": 0
+                "hidden": 0,
+                "changelog": []
             }
         },
         {
@@ -273,17 +446,27 @@
                 "author_id": 392012772189274112,
                 "author_link": "https://github.com/papa-boynton",
                 "desc": "",
-                "version": "",
+                "version": "24.0112",
                 "official_link": "https://github.com/papa-boynton/System-Theme",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/System%20-%20Mike%20Boynton%20(Droptop%20Theme).rmskin",
                 "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/test/main/data/community_themes/img/System-Mike_Boynton.webp",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/v3/data/community_themes/img/System-Mike_Boynton.webp",
                 "authorised_members": [
                     584542239900827665,
                     330345930198876161,
                     392012772189274112
                 ],
-                "hidden": 0
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0112",
+                        "changenotes": "Reduced font and icon size."
+                    },
+                    {
+                        "version": "24.0101",
+                        "changenotes": "Made font and icons smaller"
+                    }
+                ]
             }
         },
         {
@@ -294,18 +477,19 @@
                 "author": "PyBash",
                 "author_id": 626461325744275464,
                 "author_link": "",
-                "desc": "",
-                "version": "",
+                "desc": "Catppuccin theme for the best top bar",
+                "version": "23.0721",
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Catppuccin%20-%20PyBash%20(Droptop%20Theme).rmskin",
                 "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/test/main/data/community_themes/img/Catppuccin-PyBash.webp",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/v3/data/community_themes/img/Catppuccin-PyBash.webp",
                 "authorised_members": [
                     584542239900827665,
                     330345930198876161,
                     626461325744275464
                 ],
-                "hidden": 0
+                "hidden": 0,
+                "changelog": []
             }
         },
         {
@@ -321,13 +505,14 @@
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Code%20-%20Phan%20(Droptop%20Theme).rmskin",
                 "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/test/main/data/community_themes/img/Code-Phan.webp",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/v3/data/community_themes/img/Code-Phan.webp",
                 "authorised_members": [
                     584542239900827665,
                     330345930198876161,
                     561681705782607882
                 ],
-                "hidden": 0
+                "hidden": 0,
+                "changelog": []
             }
         },
         {
@@ -343,13 +528,14 @@
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Ice%20Cream%20-%20Phan%20(Droptop%20Theme).rmskin",
                 "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/test/main/data/community_themes/img/Ice_Cream-Phan.webp",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/v3/data/community_themes/img/Ice_Cream-Phan.webp",
                 "authorised_members": [
                     584542239900827665,
                     330345930198876161,
                     561681705782607882
                 ],
-                "hidden": 0
+                "hidden": 0,
+                "changelog": []
             }
         },
         {
@@ -365,13 +551,14 @@
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Tranquil%20Purple%20-%20Bunz%20(Droptop%20Theme).rmskin",
                 "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/test/main/data/community_themes/img/Tranquil_Purple-Bunz.webp",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/v3/data/community_themes/img/Tranquil_Purple-Bunz.webp",
                 "authorised_members": [
                     584542239900827665,
                     330345930198876161,
                     330345930198876161
                 ],
-                "hidden": 0
+                "hidden": 0,
+                "changelog": []
             }
         },
         {
@@ -387,13 +574,14 @@
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Dracula%20-%20Bunz%20(Droptop%20Theme).rmskin",
                 "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/test/main/data/community_themes/img/Dracula-Bunz.webp",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/v3/data/community_themes/img/Dracula-Bunz.webp",
                 "authorised_members": [
                     584542239900827665,
                     330345930198876161,
                     330345930198876161
                 ],
-                "hidden": 0
+                "hidden": 0,
+                "changelog": []
             }
         },
         {
@@ -409,13 +597,14 @@
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Nord%20-%20Bunz%20(Droptop%20Theme).rmskin",
                 "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/test/main/data/community_themes/img/Nord-Bunz.webp",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/v3/data/community_themes/img/Nord-Bunz.webp",
                 "authorised_members": [
                     584542239900827665,
                     330345930198876161,
                     330345930198876161
                 ],
-                "hidden": 0
+                "hidden": 0,
+                "changelog": []
             }
         },
         {
@@ -431,13 +620,37 @@
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Big%20Sur%20Dark%20-%20Yaron%20(Droptop%20Theme).rmskin",
                 "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/test/main/data/community_themes/img/Big_Sur_Dark-Yaron.webp",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/v3/data/community_themes/img/Big_Sur_Dark-Yaron.webp",
                 "authorised_members": [
                     584542239900827665,
                     330345930198876161,
                     709053559836246137
                 ],
-                "hidden": 0
+                "hidden": 0,
+                "changelog": []
+            }
+        },
+        {
+            "theme": {
+                "id": 1,
+                "uuid": "6c1db67a-4d43-447b-872f-1890b22c9a4c",
+                "name": "Sample Template",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "https://github.com/Cariboudjan",
+                "desc": "Use as a starting template for creating your own themes.",
+                "version": "",
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Themes/raw/main/Themes/Sample%20Template%20-%20Cari%20(Droptop%20Theme).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/v3/data/community_themes/img/Sample_Template-Cari.webp",
+                "authorised_members": [
+                    584542239900827665,
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": []
             }
         }
     ]
