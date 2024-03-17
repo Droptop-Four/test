@@ -2,7 +2,7 @@
     "app": {
         "date": null,
         "expiration": null,
-        "announcement": "",
+        "announcement": "test app",
         "type": ""
     },
     "website": {
