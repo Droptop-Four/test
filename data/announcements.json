@@ -2,7 +2,13 @@
     "app": {
         "date": null,
         "expiration": null,
-        "announcement": "test app",
+        "announcement": "",
+        "type": ""
+    },
+    "website": {
+        "date": null,
+        "expiration": null,
+        "announcement": "",
         "type": ""
     }
 }
