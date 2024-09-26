@@ -2,18 +2,19 @@
     "apps": [
         {
             "app": {
-                "id": 53,
-                "uuid": "60cba3cf-47b6-4dda-9f1c-85c64aefe68e",
-                "name": "Helldivers Livemap",
+                "id": 88,
+                "uuid": "0e309d41-01a8-427b-a258-3195e51a966f",
+                "name": "Power Controls",
                 "author": "Cariboudjan",
                 "author_id": 584542239900827665,
                 "author_link": "",
-                "desc": "test",
-                "version": "24.0313",
+                "desc": "Show power controls in the bar",
+                "version": "24.0922",
+                "downloads": 6,
                 "official_link": "",
-                "direct_download_link": "https://github.com/Droptop-Four/test/raw/main/Apps/Helldivers%20Livemap%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Power%20Controls%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/test/main/data/community_apps/img/Helldivers_Livemap-Cariboudjan.webp",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Power_Controls-Cariboudjan.webp",
                 "authorised_members": [
                     330345930198876161,
                     584542239900827665
@@ -21,8 +22,1278 @@
                 "hidden": 0,
                 "changelog": [
                     {
-                        "version": "24.0313",
+                        "version": "24.0922",
+                        "changenotes": "First release"
+                    },
+                    {
+                        "version": "24.0922",
+                        "changenotes": "Minor bug fix"
+                    },
+                    {
+                        "version": "24.0922",
+                        "changenotes": "Minor bug fix"
+                    },
+                    {
+                        "version": "24.0922",
                         "changenotes": "test"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
+                "id": 87,
+                "uuid": "6fd8e539-10d2-40f6-8c15-fa897b0319c4",
+                "name": "Minecraft Status",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "See Minecraft server status & that server's current player count in the bar",
+                "version": "24.0919",
+                "downloads": 5,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Minecraft%20Status%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Minecraft_Status-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0919",
+                        "changenotes": "First release"
+                    },
+                    {
+                        "version": "24.0919",
+                        "changenotes": "Minor changes"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
+                "id": 86,
+                "uuid": "818549dc-c578-452c-86d4-100a34887aa3",
+                "name": "GlazeWM Workspaces",
+                "author": "asrma7",
+                "author_id": 477127762520440851,
+                "author_link": "https://github.com/asrma7",
+                "desc": "This app provides an interface to interact with the workspaces of GlazeWM window manager.",
+                "version": "24.0918",
+                "downloads": 5,
+                "official_link": "https://github.com/asrma7/GlazeWM_Workspaces-asrma7",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/GlazeWM%20Workspaces%20-%20asrma7%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/GlazeWM_Workspaces-asrma7.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    477127762520440851
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0918",
+                        "changenotes": "Initial Release"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
+                "id": 85,
+                "uuid": "a4c6c16b-93c9-4525-96fb-a14e6d855a37",
+                "name": "Radio Paradise",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Radio Paradise",
+                "version": "24.0917",
+                "downloads": 1,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Radio%20Paradise%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Radio_Paradise-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0917",
+                        "changenotes": "First release"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
+                "id": 84,
+                "uuid": "99b301c6-833e-486d-8f8b-f1e4a2f2b660",
+                "name": "Dino Game",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "A great way to kill time",
+                "version": "24.0917",
+                "downloads": 2,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Dino%20Game%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Dino_Game-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0917",
+                        "changenotes": "First release"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
+                "id": 83,
+                "uuid": "a2f5a300-a68d-437b-bc2e-3ab6d5c92e61",
+                "name": "Stopwatch",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Finally, a stopwatch for Droptop.",
+                "version": "24.0917",
+                "downloads": 2,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Stopwatch%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Stopwatch-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0917",
+                        "changenotes": "First release"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
+                "id": 82,
+                "uuid": "f5025f36-7aae-48a6-a5b1-166c619fd15d",
+                "name": "QR Snapper",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Scan QR codes right from Droptop using your devices front or rear-facing camera.",
+                "version": "24.0917",
+                "downloads": 0,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/QR%20Snapper%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/QR_Snapper-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0917",
+                        "changenotes": "First release"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
+                "id": 81,
+                "uuid": "7b419318-3acb-4f68-8ef7-7601de58828d",
+                "name": "MultiCalc",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Just a calculator",
+                "version": "24.0919",
+                "downloads": 5,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/MultiCalc%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/MultiCalc-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0919",
+                        "changenotes": "Removed some functionality but now works when offline"
+                    },
+                    {
+                        "version": "24.0917",
+                        "changenotes": "First release"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
+                "id": 80,
+                "uuid": "e4e64a2e-615c-4f84-a69a-3ba0713f5160",
+                "name": "TradingView",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Monitor your stocks through TradingView, from an easily accessible dropdown menu.",
+                "version": "24.0917",
+                "downloads": 2,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/TradingView%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/TradingView-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0917",
+                        "changenotes": "First release"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
+                "id": 79,
+                "uuid": "ae1d6e07-86f2-4425-ab4c-8b5fc0319956",
+                "name": "Notepad",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Keep notes via this handy little note-taking dropdown.",
+                "version": "24.0915",
+                "downloads": 11,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Notepad%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Notepad-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0915",
+                        "changenotes": "First release"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
+                "id": 78,
+                "uuid": "b6b18d55-2720-48f0-a14a-8d47c7f7cd0d",
+                "name": "Simple Search",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Quick access to multiple search engines and common online stores.",
+                "version": "24.0828",
+                "downloads": 14,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Simple%20Search%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Simple_Search-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0828",
+                        "changenotes": "First release"
+                    },
+                    {
+                        "version": "24.0828",
+                        "changenotes": "Minor bug fix"
+                    },
+                    {
+                        "version": "24.0828",
+                        "changenotes": "Minor bug fixes"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
+                "id": 77,
+                "uuid": "fd375dec-97f8-4c7d-b0c5-e6c924c0229d",
+                "name": "TikTok",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "TikTok, but in a dropdown.",
+                "version": "24.0909",
+                "downloads": 12,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/TikTok%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/TikTok-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0909",
+                        "changenotes": "Minor bug fix"
+                    },
+                    {
+                        "version": "24.0908",
+                        "changenotes": "Minor bug fixes"
+                    },
+                    {
+                        "version": "24.0824",
+                        "changenotes": "First release"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
+                "id": 76,
+                "uuid": "d2f338cf-5699-4b6e-bf82-f38cbc77f933",
+                "name": "Mouse Recorder",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Based on a script by ArmanDoesStuff. Records mouse movement and left-clicks, and allows you to playback that pattern a set number of times.",
+                "version": "24.0821",
+                "downloads": 7,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Mouse%20Recorder%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Mouse_Recorder-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0821",
+                        "changenotes": "First release"
+                    },
+                    {
+                        "version": "24.0821",
+                        "changenotes": "Fixed dialog error"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
+                "id": 75,
+                "uuid": "5f2f4035-3aa7-45a5-83f1-8a5a6d9a337e",
+                "name": "Proton Lyrics",
+                "author": "Archived",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Shows the current line lyrics as you listen to music. Requires the WebNowPlaying extension installed.",
+                "version": "24.0916",
+                "downloads": 30,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Proton%20Lyrics%20-%20Archived%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Proton_Lyrics-Archived.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0916",
+                        "changenotes": "Minor bug fixes"
+                    },
+                    {
+                        "version": "24.0819",
+                        "changenotes": "- Added option in settings to set Anchor X\n- Minor bug fixes"
+                    },
+                    {
+                        "version": "24.0819",
+                        "changenotes": "Minor bug fixes"
+                    },
+                    {
+                        "version": "24.0819",
+                        "changenotes": "Minor bug fixes"
+                    },
+                    {
+                        "version": "24.0819",
+                        "changenotes": "Minor bug fixes"
+                    },
+                    {
+                        "version": "24.0818",
+                        "changenotes": "First release."
+                    },
+                    {
+                        "version": "24.0818",
+                        "changenotes": "Moving the app to either side of the screen will now change the direction the lyrics display"
+                    },
+                    {
+                        "version": "24.0818",
+                        "changenotes": "Clicking on the lyrics will now hide the lyrics for 5 seconds (To allow the user to click behind it)"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
+                "id": 74,
+                "uuid": "84d927c9-7b87-4512-af74-b489182daf93",
+                "name": "Game Library",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Manage your Game Library through this handy dropdown.",
+                "version": "24.0908",
+                "downloads": 35,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Game%20Library%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Game_Library-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0908",
+                        "changenotes": "Bug fixes"
+                    },
+                    {
+                        "version": "24.0908",
+                        "changenotes": "Minor bug fixes"
+                    },
+                    {
+                        "version": "24.0817",
+                        "changenotes": "Minor bug fixes"
+                    },
+                    {
+                        "version": "24.0813",
+                        "changenotes": "Minor bug fixes"
+                    },
+                    {
+                        "version": "24.0813",
+                        "changenotes": "Added additional size option. Minor bug fixes."
+                    },
+                    {
+                        "version": "24.0813",
+                        "changenotes": "Minor bug fixes"
+                    },
+                    {
+                        "version": "24.0812",
+                        "changenotes": "First release. Future versions will include automatic fetching of game info (eg. its release date, the developer, and the genre) and may even automatically fetch poster art."
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
+                "id": 73,
+                "uuid": "667f8f51-68d4-4af9-a681-741c5281906f",
+                "name": "Facebook Marketplace",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Facebook Marketplace, but in a dropdown.",
+                "version": "24.0909",
+                "downloads": 9,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Facebook%20Marketplace%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Facebook_Marketplace-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0909",
+                        "changenotes": "Minor bug fix"
+                    },
+                    {
+                        "version": "24.0723",
+                        "changenotes": "First release."
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
+                "id": 72,
+                "uuid": "1356006d-f8a1-47f5-a0fa-a72f222c4047",
+                "name": "Time",
+                "author": "KazukiGames82",
+                "author_id": 657141388139429900,
+                "author_link": "https://github.com/KazukiGames82",
+                "desc": "See and Manage your calendar events.",
+                "version": "24.0817",
+                "downloads": 56,
+                "official_link": "https://github.com/KazukiGames82/Time-KazukiGames82",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Time%20-%20KazukiGames82%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Time-KazukiGames82.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    657141388139429900
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0817",
+                        "changenotes": "- Updated to support animated icons"
+                    },
+                    {
+                        "version": "24.0722",
+                        "changenotes": "- First Release."
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
+                "id": 71,
+                "uuid": "ff569031-6d7f-4b3b-8e83-347d20995193",
+                "name": "Wallpaper Changer",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Automatic wallpaper changer, with separate wallpapers for day time (high luminosity) and night time (low luminosity) wallpapers. Change wallpapers based on system settings, sunrise/sunset, or on a 12-hour time shift.",
+                "version": "24.0909",
+                "downloads": 21,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Wallpaper%20Changer%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Wallpaper_Changer-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0909",
+                        "changenotes": "Minor bug fix"
+                    },
+                    {
+                        "version": "24.0829",
+                        "changenotes": "Fixed app not working with Overflow"
+                    },
+                    {
+                        "version": "24.0726",
+                        "changenotes": "More default wallpapers"
+                    },
+                    {
+                        "version": "24.0725",
+                        "changenotes": "Minor bug fixes"
+                    },
+                    {
+                        "version": "24.0723",
+                        "changenotes": "Added \"Next wallpaper\" button. Minor modifications."
+                    },
+                    {
+                        "version": "24.0723",
+                        "changenotes": "Bug fixes"
+                    },
+                    {
+                        "version": "24.0721",
+                        "changenotes": "First release."
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
+                "id": 70,
+                "uuid": "c936f392-06b0-4bb9-8973-38f914970185",
+                "name": "QuickConnect",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Access your Synology NAS through Droptop",
+                "version": "24.0709",
+                "downloads": 16,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/QuickConnect%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/QuickConnect-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0709",
+                        "changenotes": "First release"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
+                "id": 69,
+                "uuid": "73147b29-9d72-4c73-9fa1-485d405c22a6",
+                "name": "Last fm",
+                "author": "KazukiGames82",
+                "author_id": 657141388139429900,
+                "author_link": "https://github.com/KazukiGames82",
+                "desc": "Display your Last.fm data in a Dropdown menu.",
+                "version": "24.0830",
+                "downloads": 38,
+                "official_link": "https://github.com/KazukiGames82/Last_fm-KazukiGames82",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Last%20fm%20-%20KazukiGames82%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Last_fm-KazukiGames82.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    657141388139429900
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0830",
+                        "changenotes": "> Updated to support animated icons.\n> Redesigned App Settings.\n> Redesigned App Menu.\n> App made it from Zero, again."
+                    },
+                    {
+                        "version": "24.0619",
+                        "changenotes": "- NOTICE:\n> Next Update `Pixel` Icon Style will be added into the app, also, every icon style will have their own icon for top bar.\n- Bug fixes\n> Fixed Draggable Dropdown Menus.\n> Fixed Dropdown Menus not appyling `DropdownMenuFlatTop` variable.\n> Fixed Font issues not showing certain elements or text into dropdown menus.\n> Fixed shadow icon of app in Dropdown menus. \n- Performance\n> Improved Performance for Dropdown menu."
+                    },
+                    {
+                        "version": "24.0611",
+                        "changenotes": "- NOTICE:\n> This may be the last update of the app, everything is now stable and works as I like.\n\n- Modifications\n> Updated Icon app for TopBar view.\n- Bug fixes\n> Fixed issue where the app uses more memory and CPU usage more than usual.\n- Performance\n> Less load of elements for the top bar.\n> Less memory and cpu usage for rainmeter."
+                    },
+                    {
+                        "version": "24.0610",
+                        "changenotes": "- New features\n> Added 1 Extra Icon Style in App Settings.\n- Modifications\n> Arrows icons now can be changed with their icon style."
+                    },
+                    {
+                        "version": "24.0609",
+                        "changenotes": "- New features\n> Added 5 Icon Styles in App Settings.\n- Bug fixes\n> Fixed soft-lock when trying to update any list after an hour change."
+                    },
+                    {
+                        "version": "24.0608",
+                        "changenotes": "- New features:\n> No New Features.\n- Modifications:\n> No Modifications.\n- Bug fixes:\n> Fixed issue doing unable to re-open the dropdown menu to change the data recollection time after doing a change."
+                    },
+                    {
+                        "version": "24.0604",
+                        "changenotes": "- New features\n> Added hideable \"Icon\" in App Settings.\n> Added hideable \"Text\" in App Settings.\n- Modifications\n> No Modifications.\n- Bug fixes\n> Fixed issue no updating total scrobbles in dropdown menu.\n> Fixed wrong placement of text for arabic languages.\n> Fixed wrong placement for \"Type your username and press Enter\" text in App Settings."
+                    },
+                    {
+                        "version": "24.0603",
+                        "changenotes": "- New features\n> Added dropdown menu to \"Top Tracks/Artists/Albums\" to set the data recollection (Last 7/30/180... Days).\n> Added prices in \"Support me\" button.\n- Modifications\n> Removed \"Data Collection Time\" section from App Settings\n> Removed \"Paypal\" as Support link.\n- Bug fixes \n> Fixed issue when app load the \"Automatic Update\" for \"Recent & Top Tracks/Artist/Albums\" and changed the home page.\n> Fixed wrong link in Ko-Fi Button.\n> Fixed wrong link in Update Button.\n> Fixed wrong cover art for \"Top Artist/Albums\"."
+                    },
+                    {
+                        "version": "24.0528",
+                        "changenotes": "- First Release"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
+                "id": 68,
+                "uuid": "e6f650ac-d53d-4c2b-bda7-2482c536b130",
+                "name": "Jisho",
+                "author": "Filete",
+                "author_id": 456113896269545504,
+                "author_link": "",
+                "desc": "Jisho Japanese dictionary for Droptop 4",
+                "version": "24.0909",
+                "downloads": 8,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Jisho%20-%20Filete%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Jisho-Filete.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    456113896269545504
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0909",
+                        "changenotes": "Minor bug fix"
+                    },
+                    {
+                        "version": "24.0520",
+                        "changenotes": "-"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
+                "id": 67,
+                "uuid": "65ed28af-6f54-4475-8330-7e86cc25a41f",
+                "name": "Lichess",
+                "author": "EternalTheGod",
+                "author_id": 577013132086607872,
+                "author_link": "https://github.com/EternalTheGod",
+                "desc": "Play Chess (via lichess.org) all within your desktop!",
+                "version": "24.0701",
+                "downloads": 6,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Lichess%20-%20EternalTheGod%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Lichess-EternalTheGod.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    577013132086607872
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0430",
+                        "changenotes": "Initial Release"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
+                "id": 66,
+                "uuid": "6debd2fb-d0db-4f25-899d-c56d03ea9914",
+                "name": "Chess",
+                "author": "EternalTheGod",
+                "author_id": 577013132086607872,
+                "author_link": "https://github.com/EternalTheGod",
+                "desc": "Play on Chess (via chess.com) all within your desktop!",
+                "version": "24.0701",
+                "downloads": 18,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Chess%20-%20EternalTheGod%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Chess-EternalTheGod.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    577013132086607872
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0430",
+                        "changenotes": "Initial release"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
+                "id": 65,
+                "uuid": "6c8cf81d-db75-4d17-9e0c-ee30c9535b15",
+                "name": "Pin To Top",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Requires Microsoft PowerToys and \"Always On Top\" toy enabled, using hotkey Ctrl+Win+T. Toggles Always On Top for any focused window.",
+                "version": "24.0908",
+                "downloads": 54,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Pin%20To%20Top%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Pin_To_Top-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0908",
+                        "changenotes": "Minor bug fixes"
+                    },
+                    {
+                        "version": "24.0429",
+                        "changenotes": "First release."
+                    },
+                    {
+                        "version": "24.0429",
+                        "changenotes": "Minor bug fix"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
+                "id": 64,
+                "uuid": "d972f238-7a24-42fa-a655-4abce745ef89",
+                "name": "Meta AI",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Meta AI, but in a dropdown.",
+                "version": "24.0909",
+                "downloads": 41,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Meta%20AI%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Meta_AI-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0909",
+                        "changenotes": "Minor bug fix"
+                    },
+                    {
+                        "version": "24.0420",
+                        "changenotes": "First release"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
+                "id": 63,
+                "uuid": "f38146cc-5e6b-4b47-8bec-1c7bd124f62a",
+                "name": "Plex",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Watch Plex online or from your local library from a dropdown or pop-out window",
+                "version": "24.0909",
+                "downloads": 22,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Plex%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Plex-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0909",
+                        "changenotes": "Minor bug fix"
+                    },
+                    {
+                        "version": "24.0414",
+                        "changenotes": "Bug fixes, added minimize option for the popout player"
+                    },
+                    {
+                        "version": "24.0414",
+                        "changenotes": "Improved popout function and minor bug fixes"
+                    },
+                    {
+                        "version": "24.0413",
+                        "changenotes": "First release"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
+                "id": 62,
+                "uuid": "253644f5-2865-49f7-abb7-ed7f3bfe2320",
+                "name": "Wealthsimple",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Trade stocks with Wealthsimple and monitor your portfolio with Google Finance",
+                "version": "24.0701",
+                "downloads": 7,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Wealthsimple%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Wealthsimple-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0410",
+                        "changenotes": "First release"
+                    },
+                    {
+                        "version": "24.0410",
+                        "changenotes": "Minor change"
+                    },
+                    {
+                        "version": "24.0410",
+                        "changenotes": "Added Google Finance shortcut"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
+                "id": 61,
+                "uuid": "8c9e92c6-2d8c-4d0e-a9a8-087e920cf89c",
+                "name": "VirtualDesktop",
+                "author": "KazukiGames82",
+                "author_id": 657141388139429900,
+                "author_link": "https://github.com/KazukiGames82",
+                "desc": "Virtual Desktop Manager App for Droptop Four.<br>Easy access to control, move, delete, create, your desktops.",
+                "version": "24.0819",
+                "downloads": 148,
+                "official_link": "https://github.com/KazukiGames82/VirtualDesktop-KazukiGames82",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/VirtualDesktop%20-%20KazukiGames82%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/VirtualDesktop-KazukiGames82.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    657141388139429900
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0819",
+                        "changenotes": "- Redesigned App Settings.\n- Redesigned Button selection.\n- Improved performance.\n- Support for animated checkmarks.\n- Minor Bug Fix."
+                    },
+                    {
+                        "version": "24.0413",
+                        "changenotes": "- Added `Update` button in App Settings.\n- Added `Buy Me A Coffee` button in App Settings.\n\n*Both buttons can be hidden when you double press the right click on the button."
+                    },
+                    {
+                        "version": "24.0411",
+                        "changenotes": "- Minor bug fix.\n> Fixed issues related with rainmeter crashing when changing app mode.\n> Fixed wrong data app."
+                    },
+                    {
+                        "version": "24.0410",
+                        "changenotes": "- First Release"
+                    },
+                    {
+                        "version": "24.0410",
+                        "changenotes": "- Fixed issues when creating / deleting desktop for Windows 10."
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
+                "id": 60,
+                "uuid": "fa448931-f505-4414-adc5-dfb59d23b662",
+                "name": "WhatIsMyIP",
+                "author": "notAperson",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Based on the Location app, WhatIsMyIP shows the location and other data about the user based on their IP.",
+                "version": "24.0701",
+                "downloads": 34,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/WhatIsMyIP%20-%20notAperson%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/WhatIsMyIP-notAperson.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0324",
+                        "changenotes": "First release"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
+                "id": 59,
+                "uuid": "7cec66fe-e323-4976-bce9-09d61137fc6f",
+                "name": "Speedtest",
+                "author": "EternalTheGod",
+                "author_id": 577013132086607872,
+                "author_link": "https://github.com/EternalTheGod",
+                "desc": "Quickly test your internet connection all within Droptop4!\nUtilizes fast.com by Netflix.",
+                "version": "24.0701",
+                "downloads": 102,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Speedtest%20-%20EternalTheGod%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Speedtest-EternalTheGod.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    577013132086607872
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0324",
+                        "changenotes": "Improved WebView performance"
+                    },
+                    {
+                        "version": "24.0319",
+                        "changenotes": "Initial release"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
+                "id": 58,
+                "uuid": "f1eb2e70-f663-49ea-bb77-cb58dd8f5968",
+                "name": "MiniTools",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Quickly convert files into other filetypes",
+                "version": "24.0701",
+                "downloads": 113,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/MiniTools%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/MiniTools-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0322",
+                        "changenotes": "Improved WebView performance"
+                    },
+                    {
+                        "version": "24.0318",
+                        "changenotes": "First release"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
+                "id": 57,
+                "uuid": "0bea4600-e71f-4615-a127-be4773a11be0",
+                "name": "Iconic",
+                "author": "TheyCallMePapa",
+                "author_id": 392012772189274112,
+                "author_link": "",
+                "desc": "An app that has six different sites to find free icons.  You can change sites in the app by clicking one of the six icons in the upper right.",
+                "version": "24.0909",
+                "downloads": 56,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Iconic%20-%20TheyCallMePapa%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Iconic-TheyCallMePapa.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    392012772189274112
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0909",
+                        "changenotes": "Minor bug fix"
+                    },
+                    {
+                        "version": "24.0324",
+                        "changenotes": "Minor bug fixes.  Thanks Carib."
+                    },
+                    {
+                        "version": "24.0324",
+                        "changenotes": "Minor update"
+                    },
+                    {
+                        "version": "24.0319",
+                        "changenotes": "Improved icons, url shows in center, small bug fixes"
+                    },
+                    {
+                        "version": "24.0318",
+                        "changenotes": "First release"
+                    },
+                    {
+                        "version": "24.0318",
+                        "changenotes": "Added screenshot"
+                    },
+                    {
+                        "version": "24.0318",
+                        "changenotes": "First release"
+                    },
+                    {
+                        "version": "24.0318",
+                        "changenotes": "Fixed loading icon showing on some of the pages"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
+                "id": 56,
+                "uuid": "a4e5f320-763b-420d-9f38-e375a9843f73",
+                "name": "Twitch.TV",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Twitch.TV in a dropdown. Listen in the background and be able to pop-in and out of watching through this handy dropdown.",
+                "version": "24.0701",
+                "downloads": 38,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Twitch.TV%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Twitch.TV-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0414",
+                        "changenotes": "Added popout function"
+                    },
+                    {
+                        "version": "24.0322",
+                        "changenotes": "Improved WebView performance"
+                    },
+                    {
+                        "version": "24.0318",
+                        "changenotes": "First release"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
+                "id": 55,
+                "uuid": "a6d26c99-050e-4e34-8a94-c5b3bcbbe294",
+                "name": "Duolingo",
+                "author": "KazukiGames82",
+                "author_id": 657141388139429900,
+                "author_link": "https://github.com/KazukiGames82",
+                "desc": "Duolingo App for Droptop Four.\nEasy access to learn/practice new languages from your desktop.",
+                "version": "24.0909",
+                "downloads": 53,
+                "official_link": "https://github.com/KazukiGames82/Duolingo-KazukiGames82",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Duolingo%20-%20KazukiGames82%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Duolingo-KazukiGames82.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665,
+                    657141388139429900
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0909",
+                        "changenotes": "Minor bug fix"
+                    },
+                    {
+                        "version": "24.0709",
+                        "changenotes": "- Minor changes."
+                    },
+                    {
+                        "version": "24.0404",
+                        "changenotes": "- Minor bug fix."
+                    },
+                    {
+                        "version": "24.0324",
+                        "changenotes": "Improved WebView performance"
+                    },
+                    {
+                        "version": "24.0317",
+                        "changenotes": "- First Release\n\nSettings:\n- Toggle on/off colored Icon"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
+                "id": 54,
+                "uuid": "a2502f26-aa56-4305-99d4-8f09e432f6e0",
+                "name": "Color Hunt",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Color swatches from Colorhunt.co",
+                "version": "24.0909",
+                "downloads": 53,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Color%20Hunt%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Color_Hunt-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0909",
+                        "changenotes": "Minor bug fix"
+                    },
+                    {
+                        "version": "24.0322",
+                        "changenotes": "Improved WebView performance"
+                    },
+                    {
+                        "version": "24.0316",
+                        "changenotes": "First release"
+                    }
+                ]
+            }
+        },
+        {
+            "app": {
+                "id": 53,
+                "uuid": "60cba3cf-47b6-4dda-9f1c-85c64aefe68e",
+                "name": "Helldivers Livemap",
+                "author": "Cariboudjan",
+                "author_id": 584542239900827665,
+                "author_link": "",
+                "desc": "Show the livemap of Hell Divers 2 planets, in a quick access dropdown menu",
+                "version": "24.0701",
+                "downloads": 11,
+                "official_link": "",
+                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Helldivers%20Livemap%20-%20Cariboudjan%20(Droptop%20App).rmskin",
+                "secondary_link": "",
+                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Helldivers_Livemap-Cariboudjan.webp",
+                "authorised_members": [
+                    330345930198876161,
+                    584542239900827665
+                ],
+                "hidden": 0,
+                "changelog": [
+                    {
+                        "version": "24.0322",
+                        "changenotes": "Improved WebView performance"
+                    },
+                    {
+                        "version": "24.0313",
+                        "changenotes": "First release"
                     }
                 ]
             }
@@ -35,8 +1306,9 @@
                 "author": "Cariboudjan",
                 "author_id": 584542239900827665,
                 "author_link": "",
-                "desc": "Google Gemini, alternative to ChatGPT/Copilot, but in a dropdown!",
-                "version": "24.0228",
+                "desc": "Google Gemini, alternative to ChatGPT/Copilot, but in a dropdown! Also includes several other Gsuite apps as an option.",
+                "version": "24.0701",
+                "downloads": 133,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Google%20Gemini%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -48,6 +1320,14 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0520",
+                        "changenotes": "Added Gmail, Docs, Chat, and other app options to settings. Doubled browser window width."
+                    },
+                    {
+                        "version": "24.0322",
+                        "changenotes": "Improved WebView performance"
+                    },
                     {
                         "version": "24.0228",
                         "changenotes": "Added home and screen capture buttons"
@@ -72,7 +1352,8 @@
                 "author_id": 220522323030179840,
                 "author_link": "https://github.com/HayWeeMe",
                 "desc": "Basic web wrapper for some of the top messaging web apps that I made for myself, most likely won't be updating much. Supported apps: Whatsapp, Meta Messenger, Discord, Telegram, Snapchat, WeChat, TencentQQ, Google Chat, Slack.\n\nAll Icons created by Pixel perfect - Flaticon: https://www.flaticon.com/authors/pixel-perfect",
-                "version": "24.0226",
+                "version": "24.0701",
+                "downloads": 86,
                 "official_link": "https://github.com/HayWeeMe/DroptopApps",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Instant%20Messengers%20Webview%20-%20Haywee%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -84,6 +1365,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0324",
+                        "changenotes": "Improved WebView performance"
+                    },
                     {
                         "version": "24.0226",
                         "changenotes": "Changed custom icons ImageTint."
@@ -108,7 +1393,8 @@
                 "author_id": 392012772189274112,
                 "author_link": "https://github.com/papa-boynton",
                 "desc": "Runs a random screensaver after set delay.\nComes with 12 screensavers.\nSet the delay in the settings menu.",
-                "version": "24.0218",
+                "version": "24.0827",
+                "downloads": 61,
                 "official_link": "https://github.com/papa-boynton/IdleScreen-TheyCallMePapa/releases/tag/latest",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/IdleScreen%20-%20TheyCallMePapa%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -120,6 +1406,30 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0827",
+                        "changenotes": "Fixed bad color setting for 2Icon in Settings.ini"
+                    },
+                    {
+                        "version": "24.0803",
+                        "changenotes": "Bought up to current standards."
+                    },
+                    {
+                        "version": "24.0729",
+                        "changenotes": "Bug fixes"
+                    },
+                    {
+                        "version": "24.0701",
+                        "changenotes": "Fixed left side Droptop bar anomily"
+                    },
+                    {
+                        "version": "24.0518",
+                        "changenotes": "Fixed display anomoly"
+                    },
+                    {
+                        "version": "24.0501",
+                        "changenotes": "Added hide icon feature."
+                    },
                     {
                         "version": "24.0218",
                         "changenotes": "Currently locks pc after delay.  Working on pc lock after screensaver exits."
@@ -136,7 +1446,8 @@
                 "author_id": 584542239900827665,
                 "author_link": "",
                 "desc": "Get other Rainmeter skins through this handy app",
-                "version": "24.0127",
+                "version": "24.0707",
+                "downloads": 193,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Rainmeter%20Store%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -148,6 +1459,14 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0707",
+                        "changenotes": "Minor update"
+                    },
+                    {
+                        "version": "24.0322",
+                        "changenotes": "Improved WebView performance"
+                    },
                     {
                         "version": "24.0127",
                         "changenotes": "First release"
@@ -163,8 +1482,9 @@
                 "author": "KazukiGames82",
                 "author_id": 657141388139429900,
                 "author_link": "https://github.com/KazukiGames82",
-                "desc": "This app can display your time since you login or time with pc on.",
-                "version": "24.0227",
+                "desc": "Uptimer app for Droptop.<br>Manage your login times and monitor your screen time.",
+                "version": "24.0716",
+                "downloads": 97,
                 "official_link": "https://github.com/KazukiGames82/Uptimer-KazukiGames82",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Uptimer%20-%20KazukiGames82%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -177,8 +1497,40 @@
                 "hidden": 0,
                 "changelog": [
                     {
+                        "version": "24.0716",
+                        "changenotes": "- Bug fixes\n> Fixed topbar icon no updating after changing icon style.\n> Fixed missing right arrow in login history (Droptop Four - Icon Style).\n> Fixed issues with startup."
+                    },
+                    {
+                        "version": "24.0709",
+                        "changenotes": "- Modifications\n> Improved interface\n> Removed dropdown animations (added by me).\n- Bug fixes\n> Fixed toggle icon no flipping.\n> Fixed static info in login history."
+                    },
+                    {
+                        "version": "24.0625",
+                        "changenotes": "- New features\n> New Setup window (Only for new installs).\n> New Dropdown animations. (This can be disabled if someone feel like it's too slow).\n- Modifications\n> Improved interface.\n> Modified Icon Styles to match in chekboxs and radio buttons."
+                    },
+                    {
+                        "version": "24.0625",
+                        "changenotes": "- **v24.0625.1**\n- Modifications:\n> Smoother animations.\n> Reduced time for animations.\n> Removed \"test.inc\" file from app."
+                    },
+                    {
+                        "version": "24.0625",
+                        "changenotes": "- **v24.0625.2**\n- Bug fixes:\n> Fixed issue where the \"Arrows\" of the \"Droptop Four\" style were visible using another style."
+                    },
+                    {
+                        "version": "24.0625",
+                        "changenotes": "- **v24.0625.3**\n- Modifications\n> Smoother animations.\n> Reduced time for dropdown app animations.\n> Reduced time for dropdown submenus animations.\n> Reduced time for dropdown setings animations.\n- Bug fixes\n> Fixed issue where animation doesn't work properly when \"Fade effect when opening menus\" is disabled."
+                    },
+                    {
+                        "version": "24.0618",
+                        "changenotes": "- NOTICE:\n> The application was completely refactored, this includes new variables, new functions and other things, this means that your old data will be replaced.\n- New features\n> App is now able to save and display the logged time during the day into dropdown menu.\n> Added 7 Icon Styles in App Settings, this styles can modify every icon in the app and topbar.\n- Modifications\n> Improved interface.\n> Increased data logging.\n> Removed option to show PC time in the top bar, it will only show the time since login.\n> Removed option for smart time, it is now built-in in the app.\n> Removed option for manual time.\n> Removed option to add leading zeros.\n> Moved Donations buttons in Support me button.\n- Bug fixes\n> Fixed issue where the app uses more memory and CPU usage more than usual.\n- Performance\n> Less load of measures for background processes.\n> Less load of elements for the top bar.\n> Less memory and cpu usage for rainmeter."
+                    },
+                    {
+                        "version": "24.0413",
+                        "changenotes": "- Features:\n  - `Dropdown preferences` setting.\n    - Can be hidden `Machine Startup`, `User Startup` and `User Login History`  boxs from App.\n  - `User History Format` setting.\n  - `Update` button in App Settings.\n  - `Buy Me A Coffee` button in App Settings.\n*Both buttons can be hidden when you double press the right click on the button.\n\n- Minor Bug Fix:\n  - `User History` box overlapping other box.\n  - `WebViewHeight` is unknown."
+                    },
+                    {
                         "version": "24.0227",
-                        "changenotes": "¡¡¡ New Design for App Settings !!!\n- Added settings to show/hide sections in App.\n- Added settings to change the format to Machine Startup Section."
+                        "changenotes": "ÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÂ¡ÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÂ¡ÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÃÂ¡ New Design for App Settings !!!\n- Added settings to show/hide sections in App.\n- Added settings to change the format to Machine Startup Section."
                     },
                     {
                         "version": "24.0219",
@@ -228,7 +1580,8 @@
                 "author_id": 584542239900827665,
                 "author_link": "",
                 "desc": "Facebook Messenger, but in a dropdown!",
-                "version": "24.0227",
+                "version": "24.0909",
+                "downloads": 77,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Messenger%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -241,55 +1594,27 @@
                 "hidden": 0,
                 "changelog": [
                     {
+                        "version": "24.0909",
+                        "changenotes": "Minor bug fix"
+                    },
+                    {
+                        "version": "24.0901",
+                        "changenotes": "Fixed broken link"
+                    },
+                    {
+                        "version": "24.0726",
+                        "changenotes": "Fix for persistent update notification"
+                    },
+                    {
+                        "version": "24.0322",
+                        "changenotes": "Improved WebView performance"
+                    },
+                    {
                         "version": "24.0227",
                         "changenotes": "Larger size"
                     },
                     {
                         "version": "24.0112",
-                        "changenotes": "First release"
-                    }
-                ]
-            }
-        },
-        {
-            "app": {
-                "id": 46,
-                "uuid": "aab1b0f0-616f-43ea-94aa-4389f1396148",
-                "name": "App Drawer",
-                "author": "Cariboudjan",
-                "author_id": 584542239900827665,
-                "author_link": "",
-                "desc": "Show your system tray app drawer",
-                "version": "24.0130",
-                "official_link": "",
-                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/App%20Drawer%20-%20Cariboudjan%20(Droptop%20App).rmskin",
-                "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/App_Drawer-Cariboudjan.webp",
-                "authorised_members": [
-                    330345930198876161,
-                    584542239900827665,
-                    584542239900827665
-                ],
-                "hidden": 0,
-                "changelog": [
-                    {
-                        "version": "24.0130",
-                        "changenotes": "Bug fix"
-                    },
-                    {
-                        "version": "24.0108",
-                        "changenotes": "Minor bug fix"
-                    },
-                    {
-                        "version": "24.0108",
-                        "changenotes": "Minor changes"
-                    },
-                    {
-                        "version": "24.0108",
-                        "changenotes": "Minor bug fix"
-                    },
-                    {
-                        "version": "24.0106",
                         "changenotes": "First release"
                     }
                 ]
@@ -304,7 +1629,8 @@
                 "author_id": 657141388139429900,
                 "author_link": "https://github.com/KazukiGames82",
                 "desc": "Display your reddit karma in the top bar and do showcases with you custom profile card.",
-                "version": "24.0217",
+                "version": "24.0701",
+                "downloads": 58,
                 "official_link": "https://github.com/KazukiGames82/Karmy-KazukiGames82",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Karmy%20-%20KazukiGames82%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -348,7 +1674,8 @@
                 "author_id": 584542239900827665,
                 "author_link": "",
                 "desc": "Google Translate, but in a dropdown!",
-                "version": "24.0309",
+                "version": "24.0909",
+                "downloads": 124,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Google%20Translate%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -360,6 +1687,14 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0909",
+                        "changenotes": "Minor bug fix"
+                    },
+                    {
+                        "version": "24.0322",
+                        "changenotes": "Improved WebView performance"
+                    },
                     {
                         "version": "24.0309",
                         "changenotes": "Minor bug fixes"
@@ -384,7 +1719,8 @@
                 "author_id": 584542239900827665,
                 "author_link": "",
                 "desc": "Access Steam Chat and Store",
-                "version": "24.0309",
+                "version": "24.0909",
+                "downloads": 93,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Steam%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -396,6 +1732,14 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0909",
+                        "changenotes": "Minor bug fix"
+                    },
+                    {
+                        "version": "24.0322",
+                        "changenotes": "Improved WebView performance"
+                    },
                     {
                         "version": "24.0309",
                         "changenotes": "Minor bug fixes"
@@ -428,7 +1772,8 @@
                 "author_id": 584542239900827665,
                 "author_link": "",
                 "desc": "Bing Chat / Copilot in a dropdown",
-                "version": "24.0110",
+                "version": "24.0909",
+                "downloads": 110,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Microsoft%20Copilot%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -440,6 +1785,14 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0909",
+                        "changenotes": "Minor bug fix"
+                    },
+                    {
+                        "version": "24.0324",
+                        "changenotes": "Improved WebView performance"
+                    },
                     {
                         "version": "24.0110",
                         "changenotes": "Fixed incorrect icon proportion"
@@ -467,8 +1820,9 @@
                 "author": "Cariboudjan",
                 "author_id": 584542239900827665,
                 "author_link": "",
-                "desc": "Search, Voice, Input Language, and Action Center in one app",
-                "version": "24.0108",
+                "desc": "Search, Voice, Input Language, Widgets, and Action Center in one app",
+                "version": "24.0814",
+                "downloads": 165,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Functions%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -480,6 +1834,18 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0814",
+                        "changenotes": "Updated to support animated icons"
+                    },
+                    {
+                        "version": "24.0708",
+                        "changenotes": "Added Widgets button option"
+                    },
+                    {
+                        "version": "24.0322",
+                        "changenotes": "Minor update"
+                    },
                     {
                         "version": "24.0108",
                         "changenotes": "Minor bug fix"
@@ -504,7 +1870,8 @@
                 "author_id": 584542239900827665,
                 "author_link": "",
                 "desc": "Manage your to-do lists with Microsoft To-Do, but in a dropdown!",
-                "version": "24.0102",
+                "version": "24.0909",
+                "downloads": 105,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/To%20Do%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -516,6 +1883,14 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0909",
+                        "changenotes": "Minor bug fix"
+                    },
+                    {
+                        "version": "24.0322",
+                        "changenotes": "Improved WebView performance"
+                    },
                     {
                         "version": "24.0102",
                         "changenotes": "Minor bug fix"
@@ -536,7 +1911,8 @@
                 "author_id": 584542239900827665,
                 "author_link": "",
                 "desc": "Discord, but in a dropdown menu!",
-                "version": "23.1203",
+                "version": "24.0701",
+                "downloads": 166,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Discord%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -548,6 +1924,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0322",
+                        "changenotes": "Improved WebView performance"
+                    },
                     {
                         "version": "23.1203",
                         "changenotes": "Updated for compatibility with Droptop 4.360"
@@ -568,7 +1948,8 @@
                 "author_id": 584542239900827665,
                 "author_link": "",
                 "desc": "Spotify, but in a dropdown!",
-                "version": "23.1203",
+                "version": "24.0701",
+                "downloads": 212,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Spotify%20Web%20Player%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -580,6 +1961,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0322",
+                        "changenotes": "Improved WebView performance"
+                    },
                     {
                         "version": "23.1203",
                         "changenotes": "Updated for compatibility with Droptop 4.360"
@@ -608,7 +1993,8 @@
                 "author_id": 657141388139429900,
                 "author_link": "https://github.com/KazukiGames82",
                 "desc": "This app show the current state of {Caps Lock, Num Lock and Scroll Lock}",
-                "version": "24.0207",
+                "version": "24.0701",
+                "downloads": 60,
                 "official_link": "https://github.com/KazukiGames82/KeysLocks-KazukiGames82",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/KeysLocks%20-%20KazukiGames82%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -620,6 +2006,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0324",
+                        "changenotes": "Minor update"
+                    },
                     {
                         "version": "24.0207",
                         "changenotes": "- Minor bug fix."
@@ -672,8 +2062,9 @@
                 "author_id": 584542239900827665,
                 "author_link": "https://github.com/66bunz",
                 "desc": "Droptop store! Find all Community Apps and Themes here!",
-                "version": "23.1229",
-                "official_link": "",
+                "version": "24.0920",
+                "downloads": 101,
+                "official_link": "https://github.com/66Bunz/DroptopFour-DroptopStore",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Droptop%20Store%20-%20Bunz%20(Droptop%20App).rmskin",
                 "secondary_link": "",
                 "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/main/data/community_apps/img/Droptop_Store-Bunz.webp",
@@ -684,6 +2075,34 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0920",
+                        "changenotes": "Removed FontAwesome usage for local icons & minor fixes"
+                    },
+                    {
+                        "version": "24.0831",
+                        "changenotes": "Fix broken width, changed icon"
+                    },
+                    {
+                        "version": "24.0823",
+                        "changenotes": "Temporary fix for the icons not showing"
+                    },
+                    {
+                        "version": "24.0719",
+                        "changenotes": "Optimized community apps & themes load times"
+                    },
+                    {
+                        "version": "24.0521",
+                        "changenotes": "Updated app"
+                    },
+                    {
+                        "version": "24.0322",
+                        "changenotes": "Improved WebView performance"
+                    },
+                    {
+                        "version": "24.0319",
+                        "changenotes": "App/Theme images will be shown in an external bigger window"
+                    },
                     {
                         "version": "23.1229",
                         "changenotes": "Fixes"
@@ -708,7 +2127,8 @@
                 "author_id": 657141388139429900,
                 "author_link": "https://github.com/KazukiGames82",
                 "desc": "this app can let you move infos into the empty space between last folder and first app\n\nreport me any bug",
-                "version": "24.0218",
+                "version": "24.0903",
+                "downloads": 92,
                 "official_link": "https://github.com/KazukiGames82/Dynamic_Infos-KazukiGames82",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Dynamic%20Infos%20-%20KazukiGames82%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -720,6 +2140,34 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0903",
+                        "changenotes": "- Minor bug fix."
+                    },
+                    {
+                        "version": "24.0709",
+                        "changenotes": "- Minor changes."
+                    },
+                    {
+                        "version": "24.0708",
+                        "changenotes": "- Minor changes."
+                    },
+                    {
+                        "version": "24.0703",
+                        "changenotes": "> The application was completely refactored, this includes new variables, new functions and other things, this means that your old data will be replaced.\n* Requires Droptop 4.360.13 or latest."
+                    },
+                    {
+                        "version": "24.0518",
+                        "changenotes": "- Minor Bug Fix.\n> Fixed issue with white boxs in left side of bar,\n> Fixed issues with animations for title song."
+                    },
+                    {
+                        "version": "24.0501",
+                        "changenotes": "- Minor Bug Fix.\n> Fixed issue with white box in top bar.\n\n*Requires Droptop 4.350.41."
+                    },
+                    {
+                        "version": "24.0416",
+                        "changenotes": "- Minor bug fix.\n> Fixed Shadow issues.\n> Fixed wrong size of bar when `TopBarBlurCutOut` is greater than 0.\n> Fixed wrong position of bar when `Hide Home Icon` setting is enabled.\n> Fixed wrong position of bar when `Hide Home icon` is disabled and `Show start button` is enabled.\n\n* Requires Droptop 4.340.29 or latest."
+                    },
                     {
                         "version": "24.0218",
                         "changenotes": "##* Requires Droptop 4.340.55##\n- MInor Bug Fix."
@@ -784,7 +2232,8 @@
                 "author_id": 584542239900827665,
                 "author_link": "https://github.com/Cariboudjan",
                 "desc": "Google Search, Gmail, Maps, Sheets, Docs, Drive, Calendar, and Chat all in one app.",
-                "version": "23.1208",
+                "version": "24.0701",
+                "downloads": 114,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/GSuite%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -796,6 +2245,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0322",
+                        "changenotes": "Improved WebView performance"
+                    },
                     {
                         "version": "23.1208",
                         "changenotes": "Updated for compatibility with Droptop 4.360"
@@ -824,7 +2277,8 @@
                 "author_id": 584542239900827665,
                 "author_link": "https://github.com/Cariboudjan",
                 "desc": "YouTube, but in a dropdown menu! Also does YouTube Music!",
-                "version": "24.0227",
+                "version": "24.0825",
+                "downloads": 117,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/YouTube%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -836,6 +2290,26 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0825",
+                        "changenotes": "Minor bug fix"
+                    },
+                    {
+                        "version": "24.0414",
+                        "changenotes": "Bug fixes, added minimize option for the popout player"
+                    },
+                    {
+                        "version": "24.0414",
+                        "changenotes": "Improved popout function and minor bug fixes"
+                    },
+                    {
+                        "version": "24.0413",
+                        "changenotes": "Added new pop-out (Picture-in-picture) mode for YouTube/YouTube Music."
+                    },
+                    {
+                        "version": "24.0322",
+                        "changenotes": "Improved WebView performance"
+                    },
                     {
                         "version": "24.0227",
                         "changenotes": "Minor bug fixes"
@@ -876,7 +2350,8 @@
                 "author_id": 584542239900827665,
                 "author_link": "https://github.com/Cariboudjan",
                 "desc": "Template for creating new WebView apps for Droptop, opening any website from within a dropdown menu",
-                "version": "23.1125",
+                "version": "24.0701",
+                "downloads": 30,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Sample%20WebView%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -916,7 +2391,8 @@
                 "author_id": 584542239900827665,
                 "author_link": "https://github.com/Cariboudjan",
                 "desc": "Get your news in a dropdown menu!",
-                "version": "23.1208",
+                "version": "24.0701",
+                "downloads": 56,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Headlines%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -928,6 +2404,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0322",
+                        "changenotes": "Improved WebView performance"
+                    },
                     {
                         "version": "23.1208",
                         "changenotes": "Updated for compatibility with Droptop 4.360"
@@ -968,7 +2448,8 @@
                 "author_id": 657141388139429900,
                 "author_link": "https://github.com/KazukiGames82",
                 "desc": "The dedicated app for quick searches that shows a search engine on your Droptop4.\n- Switch between 5 search engines (Google, Bing, Brave, Yandex and Yahoo!).\n- Customizable size.\n- It is not a replacement for a browser.",
-                "version": "24.0207",
+                "version": "24.0701",
+                "downloads": 91,
                 "official_link": "https://github.com/KazukiGames82/Quick_Search-KazukiGames82",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Quick%20Search%20-%20KazukiGames82%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -980,6 +2461,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0324",
+                        "changenotes": "Improved WebView performance"
+                    },
                     {
                         "version": "24.0207",
                         "changenotes": "- Added missing preview image app."
@@ -1008,7 +2493,8 @@
                 "author_id": 330345930198876161,
                 "author_link": "https://github.com/66Bunz",
                 "desc": "Displays your WakaTime stats on Droptop",
-                "version": "23.1231",
+                "version": "24.0828",
+                "downloads": 56,
                 "official_link": "https://github.com/66Bunz/DroptopFour-WakaTime",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/WakaTime%20-%20Bunz%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -1020,6 +2506,22 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0828",
+                        "changenotes": "Minor bug fix"
+                    },
+                    {
+                        "version": "24.0729",
+                        "changenotes": "Minor changes"
+                    },
+                    {
+                        "version": "24.0729",
+                        "changenotes": "Minor changes"
+                    },
+                    {
+                        "version": "24.0727",
+                        "changenotes": "Bug fixes"
+                    },
                     {
                         "version": "23.1231",
                         "changenotes": "Updated for compatibility with Droptop 4.360"
@@ -1040,7 +2542,8 @@
                 "author_id": 657141388139429900,
                 "author_link": "https://github.com/KazukiGames82",
                 "desc": "My version of Mail App with support for WebView :D\nAdded new things and now you can add up to 5 mails (Only Gmail).",
-                "version": "24.0217",
+                "version": "24.0701",
+                "downloads": 77,
                 "official_link": "https://github.com/KazukiGames82/Multiples_Mails-KazukiGames82",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Multiples%20Mails%20-%20KazukiGames82%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -1123,8 +2626,9 @@
                 "author": "TheyCallMePapa",
                 "author_id": 392012772189274112,
                 "author_link": "https://github.com/papa-boynton",
-                "desc": "Can show tooltips for all the built in apps and the icons at the top of the home menu.",
-                "version": "24.0223",
+                "desc": "Can show tooltips for all the built in apps and the icons at the top of the home menu.  Can now make custom tooltips for the folders on the left side of Droptop.",
+                "version": "24.0913",
+                "downloads": 59,
                 "official_link": "https://github.com/papa-boynton/ToolTipster",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/ToolTipster%20-%20TheyCallMePapa%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -1136,6 +2640,54 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0913",
+                        "changenotes": "Added tooltip for new folder overflow added in Droptop v4.370.1"
+                    },
+                    {
+                        "version": "24.0906",
+                        "changenotes": "Minor bug fixes."
+                    },
+                    {
+                        "version": "24.0828",
+                        "changenotes": "Minor improvements"
+                    },
+                    {
+                        "version": "24.0828",
+                        "changenotes": "Minor improvements"
+                    },
+                    {
+                        "version": "24.0824",
+                        "changenotes": "Minor bug fixes.  Changed default tip for update due to Droptop Changes."
+                    },
+                    {
+                        "version": "24.0820",
+                        "changenotes": "Complete re-write to bring it up to current standards.  Can now make custom tooltips for the folders on the left side of Droptop."
+                    },
+                    {
+                        "version": "24.0803",
+                        "changenotes": "Bought up to current standards."
+                    },
+                    {
+                        "version": "24.0721",
+                        "changenotes": "Notification popup is now centered left to right and just below the Droptop bar."
+                    },
+                    {
+                        "version": "24.0720",
+                        "changenotes": "Converted to use Notification Popup instead of Droptop bar"
+                    },
+                    {
+                        "version": "24.0706",
+                        "changenotes": "Minor bug fixes."
+                    },
+                    {
+                        "version": "24.0328",
+                        "changenotes": "Minor bug fixes"
+                    },
+                    {
+                        "version": "24.0314",
+                        "changenotes": "Minor bug fixes."
+                    },
                     {
                         "version": "24.0223",
                         "changenotes": "Updated to show tooltip for AppDrawer instead of MOND"
@@ -1164,7 +2716,8 @@
                 "author_id": 392012772189274112,
                 "author_link": "https://github.com/papa-boynton",
                 "desc": "Keeps your PC healthy to help minimize Droptop/Rainmeter crashes.",
-                "version": "23.1203",
+                "version": "24.0803",
+                "downloads": 60,
                 "official_link": "https://github.com/papa-boynton/PC_Scanner",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/PC%20Scanner%20-%20TheyCallMePapa%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -1176,6 +2729,18 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0803",
+                        "changenotes": "Bought up to current standards."
+                    },
+                    {
+                        "version": "24.0717",
+                        "changenotes": "Minor bug fix."
+                    },
+                    {
+                        "version": "24.0711",
+                        "changenotes": "Minor bug fixes"
+                    },
                     {
                         "version": "23.1203",
                         "changenotes": "Updated for compatibility with Droptop 4.360"
@@ -1192,7 +2757,8 @@
                 "author_id": 330345930198876161,
                 "author_link": "https://github.com/papa-boynton",
                 "desc": "This app will center time, song title or current app",
-                "version": "23.1203",
+                "version": "24.0828",
+                "downloads": 97,
                 "official_link": "https://github.com/papa-boynton/Center-Infos",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Center%20Infos%20-%20TheyCallMePapa%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -1205,6 +2771,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0828",
+                        "changenotes": "Minor bug fixes"
+                    },
                     {
                         "version": "23.1203",
                         "changenotes": "Updated for compatibility with Droptop 4.360"
@@ -1219,13 +2789,14 @@
         {
             "app": {
                 "id": 24,
-                "uuid": "23209eba-3666-4d8a-b5c1-9c0d0cfc98f3",
+                "uuid": "ce252def-916d-44a1-8105-d3d0668c2906",
                 "name": "Translator",
                 "author": "Bunz",
                 "author_id": 330345930198876161,
                 "author_link": "https://github.com/66Bunz",
                 "desc": "Translator that uses the Google Translator API",
-                "version": "23.1203",
+                "version": "24.0917",
+                "downloads": 72,
                 "official_link": "https://github.com/66Bunz/DroptopFour-Translator",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Translator%20-%20Bunz%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -1237,6 +2808,26 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0917",
+                        "changenotes": "Minor bug fix"
+                    },
+                    {
+                        "version": "24.0727",
+                        "changenotes": "Added animated checkmark buttons, fixed bugs, simplified UI, added HotInput support"
+                    },
+                    {
+                        "version": "24.0727",
+                        "changenotes": "Minor changes"
+                    },
+                    {
+                        "version": "24.0727",
+                        "changenotes": "Minor bug fixes"
+                    },
+                    {
+                        "version": "24.0726",
+                        "changenotes": "Fix for persistent update notification"
+                    },
                     {
                         "version": "23.1203",
                         "changenotes": "Updated for compatibility with Droptop 4.360"
@@ -1250,34 +2841,6 @@
         },
         {
             "app": {
-                "id": 23,
-                "uuid": "c8467315-7a5c-4307-9cfd-d6a5fc70537f",
-                "name": "Hide Settings Menu",
-                "author": "TheyCallMePapa",
-                "author_id": 392012772189274112,
-                "author_link": "https://github.com/papa-boynton",
-                "desc": "I built this app after a suggestion from @Desmond Alohan.  It does what it's title says...hides the home button.  App has a toggle to show the home button without unloading the app.",
-                "version": "23.1203",
-                "official_link": "https://github.com/papa-boynton/Hide-Settings-Menu",
-                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Hide%20Settings%20Menu%20-%20TheyCallMePapa%20(Droptop%20App).rmskin",
-                "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/v3/data/community_apps/img/Hide_Settings_Menu-TheyCallMePapa.webp",
-                "authorised_members": [
-                    330345930198876161,
-                    584542239900827665,
-                    392012772189274112
-                ],
-                "hidden": 0,
-                "changelog": [
-                    {
-                        "version": "23.1203",
-                        "changenotes": "Updated for compatibility with Droptop 4.360"
-                    }
-                ]
-            }
-        },
-        {
-            "app": {
                 "id": 22,
                 "uuid": "0bdf33b5-6b67-499b-809b-0b90a0f56dc5",
                 "name": "Usage Monitor",
@@ -1285,7 +2848,8 @@
                 "author_id": 584542239900827665,
                 "author_link": "https://github.com/Cariboudjan",
                 "desc": "A simple System Monitor for Droptop with official support",
-                "version": "23.1203",
+                "version": "24.0907",
+                "downloads": 157,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Usage%20Monitor%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -1297,6 +2861,26 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0907",
+                        "changenotes": "Added color-coded graphs for CPU, GPU, RAM, HDD, and Network usage."
+                    },
+                    {
+                        "version": "24.0907",
+                        "changenotes": "Minor bug fixes"
+                    },
+                    {
+                        "version": "24.0901",
+                        "changenotes": "Added download/upload rates, removed unnecessary !Redraw bangs"
+                    },
+                    {
+                        "version": "24.0814",
+                        "changenotes": "Updated to support animated icons."
+                    },
+                    {
+                        "version": "24.0324",
+                        "changenotes": "Minor update"
+                    },
                     {
                         "version": "23.1203",
                         "changenotes": "Updated for compatibility with Droptop 4.360"
@@ -1315,13 +2899,14 @@
         {
             "app": {
                 "id": 21,
-                "uuid": "d70859a7-dcb2-4d25-80e4-cd2dbe0d9fcd",
+                "uuid": "d304c24e-57bf-4fc9-825e-7393996d513b",
                 "name": "VPN Status",
                 "author": "Mike Boynton",
                 "author_id": 392012772189274112,
                 "author_link": "https://github.com/papa-boynton",
                 "desc": "Shows status of your VPN (connected/not connected), Displays status of vpn, location, local ip address and map with approximate location, Droptop icon changes from red when disconnected to green when connected.",
-                "version": "23.1203",
+                "version": "24.0828",
+                "downloads": 100,
                 "official_link": "https://github.com/papa-boynton/VPN_Status",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/VPN%20Status%20-%20Mike%20Boynton%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -1334,6 +2919,30 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0828",
+                        "changenotes": "Minor bug fixes"
+                    },
+                    {
+                        "version": "24.0818",
+                        "changenotes": "Minor bug fix."
+                    },
+                    {
+                        "version": "24.0804",
+                        "changenotes": "Brought up to current standards."
+                    },
+                    {
+                        "version": "24.0804",
+                        "changenotes": "Minor bug fixes."
+                    },
+                    {
+                        "version": "24.0804",
+                        "changenotes": "Minor bug fixes."
+                    },
+                    {
+                        "version": "24.0422",
+                        "changenotes": "Added buy me a coffee"
+                    },
                     {
                         "version": "23.1203",
                         "changenotes": "Updated for compatibility with Droptop 4.360"
@@ -1368,13 +2977,14 @@
         {
             "app": {
                 "id": 20,
-                "uuid": "4f53e714-a2b8-4ef2-9773-234421341ea3",
+                "uuid": "867ed320-fe81-42ce-b70c-1ea428435d4b",
                 "name": "QRes",
                 "author": "Cariboudjan",
                 "author_id": 584542239900827665,
                 "author_link": "https://github.com/Cariboudjan",
                 "desc": "Select up to three different screen resolutions & refresh rates and with one-click quick swap between multiple display settings",
-                "version": "23.1203",
+                "version": "24.0701",
+                "downloads": 50,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/QRes%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -1396,13 +3006,14 @@
         {
             "app": {
                 "id": 18,
-                "uuid": "de642008-a7ec-49ed-a0c8-e840eedfeb8b",
+                "uuid": "2f7af898-de5e-475c-9d63-95a2b61c48ba",
                 "name": "Theme Me",
                 "author": "Mike Boynton",
                 "author_id": 392012772189274112,
                 "author_link": "https://github.com/papa-boynton",
                 "desc": "Allows you to select a random Droptop theme and you can save up to eight custom themes and hot load them.\nNo need to install a custom theme again once it is saved.",
-                "version": "23.1203",
+                "version": "24.0828",
+                "downloads": 72,
                 "official_link": "https://github.com/papa-boynton/Theme_Me-Mike_Boynton",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Theme%20Me%20-%20Mike%20Boynton%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -1414,6 +3025,30 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0828",
+                        "changenotes": "Major bug fixes"
+                    },
+                    {
+                        "version": "24.0828",
+                        "changenotes": "Minor bug fix"
+                    },
+                    {
+                        "version": "24.0707",
+                        "changenotes": "Cosmetic changes."
+                    },
+                    {
+                        "version": "24.0707",
+                        "changenotes": "minor bug fixes"
+                    },
+                    {
+                        "version": "24.0704",
+                        "changenotes": "Brought up to new standards"
+                    },
+                    {
+                        "version": "24.0704",
+                        "changenotes": "Minor bug fix"
+                    },
                     {
                         "version": "23.1203",
                         "changenotes": "Updated for compatibility with Droptop 4.360"
@@ -1431,34 +3066,6 @@
         },
         {
             "app": {
-                "id": 14,
-                "uuid": "d7a2bf71-bc19-4308-8e3a-a5acb3762ce0",
-                "name": "Game Hub",
-                "author": "Phan",
-                "author_id": 561681705782607882,
-                "author_link": "",
-                "desc": "This is a community app to keep your favorite games organized.",
-                "version": "24.0101",
-                "official_link": "",
-                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Game%20Hub%20-%20Phan%20(Droptop%20App).rmskin",
-                "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/v3/data/community_apps/img/Game_Hub-Phan.webp",
-                "authorised_members": [
-                    584542239900827665,
-                    330345930198876161,
-                    561681705782607882
-                ],
-                "hidden": 0,
-                "changelog": [
-                    {
-                        "version": "24.0101",
-                        "changenotes": "Updated for compatibility with Droptop 4.360"
-                    }
-                ]
-            }
-        },
-        {
-            "app": {
                 "id": 13,
                 "uuid": "b09aea21-6371-4fbf-a472-0d5edada8967",
                 "name": "Shortcut",
@@ -1466,7 +3073,8 @@
                 "author_id": 561681705782607882,
                 "author_link": "",
                 "desc": "Allows you to add up to 10 shortcuts of any program or file to the bar",
-                "version": "24.0128",
+                "version": "24.0916",
+                "downloads": 191,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Shortcut%20-%20Phan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -1478,6 +3086,26 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0916",
+                        "changenotes": "Minor bug fixes"
+                    },
+                    {
+                        "version": "24.0730",
+                        "changenotes": "Fixed app causing Mouse Scroll Up/Down actions to stop working in the Top Bar, minor bug fixes, added animated toggle and checkmark buttons"
+                    },
+                    {
+                        "version": "24.0726",
+                        "changenotes": "Fix for persistent update notification"
+                    },
+                    {
+                        "version": "24.0414",
+                        "changenotes": "Minor bug fixes"
+                    },
+                    {
+                        "version": "24.0322",
+                        "changenotes": "Minor update"
+                    },
                     {
                         "version": "24.0128",
                         "changenotes": "Bug fixes, added option to set icon size."
@@ -1511,38 +3139,6 @@
         },
         {
             "app": {
-                "id": 12,
-                "uuid": "187ab273-cb4e-4aaa-b49e-a26b869c08c0",
-                "name": "SearchBar",
-                "author": "Mike Boynton",
-                "author_id": 392012772189274112,
-                "author_link": "https://github.com/papa-boynton",
-                "desc": "Search from a variety of search engines & stores in just a few clicks.",
-                "version": "23.1203",
-                "official_link": "https://github.com/papa-boynton/SearchBar-Mike_Boynton",
-                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/SearchBar%20-%20Mike%20Boynton%20(Droptop%20App).rmskin",
-                "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/v3/data/community_apps/img/SearchBar-Mike_Boynton.webp",
-                "authorised_members": [
-                    584542239900827665,
-                    330345930198876161,
-                    392012772189274112
-                ],
-                "hidden": 0,
-                "changelog": [
-                    {
-                        "version": "23.1203",
-                        "changenotes": "Updated for compatibility with Droptop 4.360"
-                    },
-                    {
-                        "version": "23.0429",
-                        "changenotes": "Updated app to current standards."
-                    }
-                ]
-            }
-        },
-        {
-            "app": {
                 "id": 10,
                 "uuid": "6fabdc94-1ad4-4f96-b2b0-5226dd14c4b9",
                 "name": "Color Mode Toggle",
@@ -1550,7 +3146,8 @@
                 "author_id": 584542239900827665,
                 "author_link": "https://github.com/Cariboudjan",
                 "desc": "On compatible themes, one-click toggle switching between dark mode and light mode.",
-                "version": "23.1210",
+                "version": "24.0701",
+                "downloads": 74,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Color%20Mode%20Toggle%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -1562,6 +3159,14 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0324",
+                        "changenotes": "Minor update"
+                    },
+                    {
+                        "version": "24.0324",
+                        "changenotes": "Minor update"
+                    },
                     {
                         "version": "23.1210",
                         "changenotes": "Updated for compatibility with Droptop 4.360"
@@ -1578,7 +3183,8 @@
                 "author_id": 709053559836246137,
                 "author_link": "https://github.com/Yaron2334",
                 "desc": "Alternative WebNowPlaying media control center.Requires the WebNowPlaying extension for Chrome, Brave, Firefox, or Edge browsers.",
-                "version": "24.0313",
+                "version": "24.0817",
+                "downloads": 197,
                 "official_link": "https://github.com/Yaron2334/Media-Control",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Media%20Control%20-%20Yaron%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -1591,6 +3197,22 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0817",
+                        "changenotes": "- Updated to support animated icons"
+                    },
+                    {
+                        "version": "24.0715",
+                        "changenotes": "- Modifications\n> Modified App Settings.\n> Removed \"Show media control in topbar\" setting.\n> Minor changes.\n- Bug Fix\n> Fixed dropdown menu to set \"Skip X Seconds\".\n> Minor changes."
+                    },
+                    {
+                        "version": "24.0715",
+                        "changenotes": "- Bug Fix:\n> Fixed gap for dropdown in \"Text when no playing\" setting."
+                    },
+                    {
+                        "version": "24.0324",
+                        "changenotes": "Minor update"
+                    },
                     {
                         "version": "24.0313",
                         "changenotes": "Added:\n- Dynamic Width setting\n- Input to change text when no playing\n\nModified:\n- Refactored Code.\n- Change icon when something is playing\n\nBug Fixes:\n- fixed Issues with bigger fonts.\n- fixed empty space when there's not text for \"Media_Control-Yaron___Music_Info_0\" variable.\n- fixed missing padding when there's nothing playing\n\nTips:\n- Turn off \"Dynamic Width\" to save battery."
@@ -1635,7 +3257,8 @@
                 "author_id": 341522422836625408,
                 "author_link": "https://github.com/EnhancedJax",
                 "desc": "Allows integration of Vallistart 3.0 with the Droptop home button, as well as shortcuts to YourMixer, QuickNotes, and Keylauncher from JaxCore.\n- JaxCore and related modules required\n- Module download links included inside app.",
-                "version": "24.0101",
+                "version": "24.0701",
+                "downloads": 103,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/JaxCore%20-%20Jax%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -1663,7 +3286,8 @@
                 "author_id": 584542239900827665,
                 "author_link": "https://github.com/Cariboudjan",
                 "desc": "Toggles the Quick Settings menu (Win+A) in Windows 11, or the Action Center in Windows 10.",
-                "version": "24.0216",
+                "version": "24.0701",
+                "downloads": 248,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Quick%20Settings%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -1675,6 +3299,10 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0324",
+                        "changenotes": "Minor update"
+                    },
                     {
                         "version": "24.0216",
                         "changenotes": "Minor bug fix"
@@ -1694,8 +3322,9 @@
                 "author": "Phan",
                 "author_id": 561681705782607882,
                 "author_link": "",
-                "desc": "Shortcuts of up to 5 disk drives and displays remaining gigabytes.",
-                "version": "23.1208",
+                "desc": "Shortcuts for disk drives and displays remaining gigabytes.",
+                "version": "24.0828",
+                "downloads": 142,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Disks%20-%20Phan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -1703,10 +3332,31 @@
                 "authorised_members": [
                     584542239900827665,
                     330345930198876161,
-                    561681705782607882
+                    561681705782607882,
+                    657141388139429900
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0828",
+                        "changenotes": "Fixed not displaying used disk space"
+                    },
+                    {
+                        "version": "24.0825",
+                        "changenotes": "Minor bug fix"
+                    },
+                    {
+                        "version": "24.0823",
+                        "changenotes": "Minor bug fix"
+                    },
+                    {
+                        "version": "24.0714",
+                        "changenotes": "Minor bug fixes"
+                    },
+                    {
+                        "version": "24.0322",
+                        "changenotes": "- Limit of 5 simultaneous disks removed.\n- Added auto detection."
+                    },
                     {
                         "version": "23.1208",
                         "changenotes": "Updated for compatibility with Droptop 4.360"
@@ -1717,13 +3367,14 @@
         {
             "app": {
                 "id": 4,
-                "uuid": "a2b832eb-8937-49a2-b4ab-6e8ce6a63396",
+                "uuid": "4cdab24f-5a15-45ea-9756-4c425be1f17d",
                 "name": "Recycle Bin",
                 "author": "Phan",
                 "author_id": 561681705782607882,
                 "author_link": "",
                 "desc": "Displays the recycle bin. The bin icon will change depending on how much is in the recycle bin. Drag & drop to the icon to delete files.",
-                "version": "24.0108",
+                "version": "24.0825",
+                "downloads": 107,
                 "official_link": "",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Recycle%20Bin%20-%20Phan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -1736,37 +3387,17 @@
                 "hidden": 0,
                 "changelog": [
                     {
-                        "version": "24.0108",
+                        "version": "24.0825",
                         "changenotes": "Minor bug fix"
                     },
                     {
-                        "version": "23.1203",
-                        "changenotes": "Updated for compatibility with Droptop 4.360"
-                    }
-                ]
-            }
-        },
-        {
-            "app": {
-                "id": 3,
-                "uuid": "0195e174-b277-4271-833d-1d81d83c83b7",
-                "name": "Location",
-                "author": "notAperson",
-                "author_id": 736395826670207088,
-                "author_link": "https://github.com/notAperson535",
-                "desc": "Shows your IP and location information.",
-                "version": "23.1203",
-                "official_link": "https://github.com/notAperson535/Location-For-Droptop",
-                "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Location%20-%20notAperson%20(Droptop%20App).rmskin",
-                "secondary_link": "",
-                "image_url": "https://raw.githubusercontent.com/Droptop-Four/GlobalData/v3/data/community_apps/img/Location-notAperson.webp",
-                "authorised_members": [
-                    584542239900827665,
-                    330345930198876161,
-                    736395826670207088
-                ],
-                "hidden": 0,
-                "changelog": [
+                        "version": "24.0727",
+                        "changenotes": "Minor bug fixes"
+                    },
+                    {
+                        "version": "24.0108",
+                        "changenotes": "Minor bug fix"
+                    },
                     {
                         "version": "23.1203",
                         "changenotes": "Updated for compatibility with Droptop 4.360"
@@ -1783,7 +3414,8 @@
                 "author_id": 330345930198876161,
                 "author_link": "https://github.com/66Bunz",
                 "desc": "Shows a series of quotes, the word of the day, and an event in history that occurred on this date, updating daily.",
-                "version": "23.1203",
+                "version": "24.0921",
+                "downloads": 54,
                 "official_link": "https://github.com/66Bunz/DroptopFour-DailyQuotes",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Daily%20Quotes%20-%20Bunz%20(Droptop%20App).rmskin",
                 "secondary_link": "",
@@ -1795,6 +3427,22 @@
                 ],
                 "hidden": 0,
                 "changelog": [
+                    {
+                        "version": "24.0921",
+                        "changenotes": "App will now display the Word of the Day in the top bar, and will parse new data without needing to open the app"
+                    },
+                    {
+                        "version": "24.0821",
+                        "changenotes": "Minor bug fixes"
+                    },
+                    {
+                        "version": "24.0714",
+                        "changenotes": "- Cosmetic improvements\n- Minor bug fixes\n- Clicking on the quote now looks the quote up in Google"
+                    },
+                    {
+                        "version": "24.0322",
+                        "changenotes": "Minor update"
+                    },
                     {
                         "version": "23.1203",
                         "changenotes": "Updated for compatibility with Droptop 4.360"
@@ -1811,7 +3459,8 @@
                 "author_id": 584542239900827665,
                 "author_link": "https://github.com/Cariboudjan",
                 "desc": "Default Sample App that shows what you can achieve by creating your own custom app.",
-                "version": "23.1125",
+                "version": "24.0701",
+                "downloads": 30,
                 "official_link": "https://github.com/Droptop-Four/Sample-Community-App",
                 "direct_download_link": "https://github.com/Droptop-Four/Droptop-Community-Apps/raw/main/Apps/Sample%20App%20-%20Cariboudjan%20(Droptop%20App).rmskin",
                 "secondary_link": "",
