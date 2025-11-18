@@ -1,16 +1,822 @@
 {
     "changelog": [
         {
-            "version": "4.340.00",
+            "version": "4.390.9",
             "new_features": [
-                "This is a new feature"
+                "Added animations for highlight effects to the Top Bar"
             ],
             "modifications": [
-                "new mod"
+                "Updated ChromeOS theme: Smaller font, and will now follow the desktop wallpaper color",
+                "Improved default sizing for popout window for WebView apps",
+                "Added new style of input fields to the create & share Community App/Community Theme windows",
+                "Added new options in the initial setup window",
+                "Droptop will now only re-check if the keyboard language is correct once every 120 seconds (Previously 15 seconds)"
             ],
             "bug_fixes": [
-                "bug",
-                "fixes"
+                "Fixed bug where using Hide Icons would hide icons in the app grid"
+            ]
+        },
+        {
+            "version": "4.390.1",
+            "new_features": [
+                "All features from the previous 4.380 version updates"
+            ],
+            "modifications": [
+                "Droptop Task Helper will no longer display as an icon in the system tray",
+                "Droptop Task Helper will now close itself to avoid conflict when the EA Anti-cheat window is opened (For example, when launching Battlefield 6). The Droptop Task Helper will automatically re-launch itself when the game exits."
+            ],
+            "bug_fixes": [
+                "Fixed Bluetooth dropdown not displaying device icons",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.380.27",
+            "new_features": [
+                "Dropdown menu highlight effects are now animated and move smoothly with the cursor position",
+                "Added new option \"Show as app grid\" to folder settings. Folders can now display as icons-only in a grid"
+            ],
+            "modifications": [
+                "SSID will no longer display if connected to internet via ethernet",
+                "Droptop will no longer show a command prompt window when restarting",
+                "Droptop will now reopen quicker when the app is restarted",
+                "New high-res icons for Bookmarks & Games folders (New installs only)",
+                "Showing Droptop on top of windows with the keyboard shortcut will now use the Shift+Alt+Plus hotkey",
+                "MacOS Tahoe theme will now be named iPadOS 26",
+                "Apps folder will now default to \"Show as app grid\"",
+                "Removed Bluetooth refresh/toggle buttons from Wifi app (No longer needed)",
+                "Other minor changes and optimizations"
+            ],
+            "bug_fixes": [
+                "Fixed a bug where SSID would not update in the bar",
+                "Fixed bug that would cause an error popup if both Rainmeter and the Skins Folder were installed to the non-default location",
+                "Fixed a bug that would cause the sleep, shutdown, lock, etc buttons to not work on Windows 11",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.380.18",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.380.16",
+            "new_features": [],
+            "modifications": [
+                "Added option to show your IP address next to the Wifi app icon",
+                "Holding down left-click on the arrow keys in the Calendar will now rotate months automatically",
+                "Other minor cosmetic changes"
+            ],
+            "bug_fixes": [
+                "Submenus near the monitor edge will now be fully drawn inside the current monitor",
+                "Fixed a bug that prevented automatic color changing and weather location from being updated on Droptop startup",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.380.12",
+            "new_features": [],
+            "modifications": [
+                "Added option to show your IP address next to the Wifi icon",
+                "Holding down left-click on the arrow keys in the Calendar will now rotate months automatically",
+                "Other minor cosmetic changes"
+            ],
+            "bug_fixes": [
+                "Submenus will no longer be drawn outside of the current monitor edge",
+                "Fixed a bug that prevented automatic color changing on theme load or when starting Droptop",
+                "Fixed a bug that prevented the weather data from updating when starting Droptop",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.380.9",
+            "new_features": [],
+            "modifications": [
+                "Removed notification that \"Droptop is up-to-date\" on Droptop start up",
+                "Replaced Snow Leopard theme with MacOS Tahoe theme"
+            ],
+            "bug_fixes": [
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.380.2",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.370.101",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "WebView apps will no longer be able to draw outside of the screen (under normal conditions)",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.370.98",
+            "new_features": [],
+            "modifications": [
+                "Windows Defender exclusion script will now run on initial setup"
+            ],
+            "bug_fixes": [
+                "Minor bug fixes to Bluetooth device list"
+            ]
+        },
+        {
+            "version": "4.370.96",
+            "new_features": [
+                "Added and updated Bluetooth function to the Wifi app"
+            ],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed bug where Droptop Task Helper would stay open when Rainmeter exits",
+                "Fixed bug where Droptop would sometimes fail to install because of conflicting background processes",
+                "Droptop will now check for duplicate tasks in the system tray and attempt to terminate them, if they exist",
+                "Fixed Droptop Store app not downloading files (May require updating the Droptop Store app manually)",
+                "Fixed lag caused by Windows Defender on Windows 11",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.370.83",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed bug where Droptop would hide if Show Desktop or Win+D shortcut were used",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.370.81",
+            "new_features": [
+                "Keyboard shortcut Alt+Shift+D will now reveal Droptop in Autohide and Desktop Only modes"
+            ],
+            "modifications": [
+                "Temporarily, Droptop will now default to Always On Top in \"Always Show\" mode, and Top Bar Shadows are disabled as a hotfix for Droptop hiding when using the Show Desktop function in Windows 11 24H2",
+                "Droptop Task Helper (Droptop.exe) will now automatically close when running a fullscreen application, and relaunch when that application is closed. This should alleviate issues with Anticheat software in games and Autohotkey."
+            ],
+            "bug_fixes": [
+                "Fixed issue with automatic color scheming",
+                "Fixed a bug where folder names were not updating in the Folder Overflow",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.370.61",
+            "new_features": [],
+            "modifications": [
+                "Temporarily disabled Bluetooth functionality due to conflicts with the latest version of Windows 11"
+            ],
+            "bug_fixes": [
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.370.57",
+            "new_features": [
+                "Merry Christmas and Happy New Year from Droptop! 🎄❄️🎅",
+                "Added v1.0 of Bluetooth devices dropdown in Wifi app using Bluetooth plugin and lua script by @Bunz",
+                "Added Bluetooth button to the Functions community app",
+                "Added Keyboard Layout indicator to Functions community app",
+                "New WebView apps will now have a new navigation button to toggle the width of the WebView app between 100%, 80%, and 60%.",
+                "Added option to show Wifi SSID in the top bar"
+            ],
+            "modifications": [
+                "Now includes new \"Droptop Task Helper\" app that runs in the background, automatically re-opening Rainmeter/Droptop in the event of a fatal crash",
+                "Minor cosmetic changes to the Windows 12 theme",
+                "Added Mica Blur toggle to `Droptop settings >> Options >> Blur`. (Only available on certain themes and on Windows 11)"
+            ],
+            "bug_fixes": [
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.370.36",
+            "new_features": [],
+            "modifications": [
+                "Minor modifications to some themes"
+            ],
+            "bug_fixes": [
+                "Minor bug fixes",
+                "Fixed issues with selecting colors in Theme Builder"
+            ]
+        },
+        {
+            "version": "4.370.34",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Minor bug fixes (Hopefully the last update until November)"
+            ]
+        },
+        {
+            "version": "4.370.31",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed incorrect app positions on new installs"
+            ]
+        },
+        {
+            "version": "4.370.30",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.370.23",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed missing animation in startup menu"
+            ]
+        },
+        {
+            "version": "4.370.22",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed missing animations in setup menu"
+            ]
+        },
+        {
+            "version": "4.370.21",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Hot fix for bug in setup screen"
+            ]
+        },
+        {
+            "version": "4.370.20",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Temporarily, Droptop Store app and Droptop Store links will directly link to the website",
+                "Fixed bug where clicking in the corner would trigger Hot Corner actions when in a fullscreen app (eg. a game)"
+            ]
+        },
+        {
+            "version": "4.370.19",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.370.17",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Bug fixes"
+            ]
+        },
+        {
+            "version": "4.370.9",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed a Container bug with some Community Apps"
+            ]
+        },
+        {
+            "version": "4.370.6",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed missing translations",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.370.5",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Minor bug fix with the installation screen"
+            ]
+        },
+        {
+            "version": "4.370.4",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed a bug that caused the Touch Tab to be visible when apps were not fullscreen",
+                "Fixed an installation bug that could cause the Droptop splash logo to get stuck on",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.370.2",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed missing translations"
+            ]
+        },
+        {
+            "version": "4.370.01",
+            "new_features": [
+                "Added new Folder Overflow option ( ⋮ ) that will allow quick access to disabled Folders in the top bar",
+                "Added new option \"Droptop settings >> Options >> Menu options >> Show faux MacOS titles\""
+            ],
+            "modifications": [
+                "Minor changes to App Overflow icon",
+                "Added new battery icon option",
+                "Increased the height of the Touch Tab for a larger hitbox",
+                "New animated checkmark for Default theme"
+            ],
+            "bug_fixes": [
+                "Fixed a bug where Droptop would not properly install if the OneDrive folder was not called literally \"OneDrive\"",
+                "Fixed a bug where Blur would not work on Windows 10 devices",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.370.1",
+            "new_features": [
+                "Added new Folder Overflow option ( ⋮ ) that will allow quick access to disabled Folders in the top bar",
+                "Added new option \"Droptop settings >> Options >> Menu options >> Show faux MacOS titles\""
+            ],
+            "modifications": [
+                "Minor changes to App Overflow icon",
+                "Added new battery icon option",
+                "Increased the height of the Touch Tab for a larger hitbox",
+                "New animated checkmark for Default theme"
+            ],
+            "bug_fixes": [
+                "Fixed a bug where Droptop would not properly install if the OneDrive folder was not called literally \"OneDrive\"",
+                "Fixed a bug where Blur would not work on Windows 10 devices",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.360.96",
+            "new_features": [
+                "Added bar underneath Alarm app to display remaining time for Pomodoro",
+                "Added time stamps to files in Recent app"
+            ],
+            "modifications": [
+                "Added sound effect when an rmskin is finished generating",
+                "Minor changes to Transparent and MacOS Ventura themes",
+                "All app settings are now accessible only through right-clicking on the app in the top bar"
+            ],
+            "bug_fixes": [
+                "Performance and stability improvements",
+                "Fixed Overflow apps not hiding automatically",
+                "Many minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.360.91",
+            "new_features": [
+                "Added new option \"Droptop Settings >> Options >> Shape >> Rounded monitor corners\" Adds faux rounded corners to your display",
+                "Added option to toggle blur borders for Top Bar and Dropdown Menus",
+                "Added new option \"Droptop settings >> Options >> Autohide settings >> Set autohide trigger style\" Choose between \"Full width\" (Standard) or the new \"Touch tab\" option"
+            ],
+            "modifications": [
+                "Minor theme changes",
+                "When enabling Touchscreen Mode in Advanced settings, Droptop will switch to Autohide mode and change the Autohide Trigger Style to \"Touch tab\"",
+                "Update notification in top bar will no longer be dismissible if the update is an \"emergency update\" required due to fundamental changes to the Windows OS or to Rainmeter",
+                "\"Full Width\" autohide trigger option will now only apply to the width of the top bar when Top Bar Centering is enabled"
+            ],
+            "bug_fixes": [
+                "Stability improvements",
+                "Fixed bug that caused Chameleon to only follow the color of the wallpaper of the primary display",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.360.80",
+            "new_features": [
+                "Added new \"Overflow\" feature for apps. Hide any app from the bar without disabling it. Open the \"Toggle & rearrange\" dropdown, and right-click on any app New option \"Place app in Overflow\". When at least one app is assigned to the Overflow, a new arrow will appear on the bar to show/hide hidden apps.",
+                "Added new \"Set home icon\" menu in Settings",
+                "Added option to randomize home icon once per hour",
+                "Right-clicking on a .png, .jpg, .bmp, .tif, .webp, or .ico image in Folders will now show a preview of that image",
+                "Added option \"Droptop settings >> Support >> Developer tools >> Create 32x32 button images\"; Used to quickly create buttons for Community Apps"
+            ],
+            "modifications": [
+                "Minor changes to some themes",
+                "Home icons are now default 64x64 instead of 32x32",
+                "Removed most home icons, added some new icons",
+                "Uploading a custom home icon now locked on Basic Version",
+                "Added option to set greyscale icons between the top bar and dropdown menus independently",
+                "Greyscale top bar icons will now affect colored Community App buttons",
+                "Removed option \"Hide submenu icons\"",
+                "\"Hide icons\" will now only affect icons in folders",
+                "Removed size selection menu from setup screen, added expanded home icon selection",
+                "Updated language translations",
+                "App command icons will now appear larger in the bar; App command icons in the Application menu will now be hidden if more than 3 characters long (eg. if it is a word)"
+            ],
+            "bug_fixes": [
+                "Fixed input fields not accepting foreign characters -@KazukiGames82 🇲🇽 | 🇪🇦",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.360.70",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed missing measures in Folders #7 through #12",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.360.69",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixes to errors in the Sample App and Sample WebView app when creating a new Community App.",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.360.67",
+            "new_features": [],
+            "modifications": [
+                "Alarm app will now show a notification when the alarm is activated"
+            ],
+            "bug_fixes": [
+                "Fixed bug that could cause Droptop to fail to install if the user changed their Windows Username",
+                "Fixed a bug that caused Scroll Up/Down actions to not work if the Shortcut app was in use",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.360.64",
+            "new_features": [
+                "Added option `Droptop settings >> Menu options >> Animation speed`",
+                "Added Greek language translation (Thank you @AloneAlexandros)",
+                "Added animated toggle and checkmark buttons",
+                "Added new option in Battery settings `Always show backlight bar`, removed option `Only show backlight icon`",
+                "Scrolling on the battery app icon will now raise/lower brightness settings"
+            ],
+            "modifications": [
+                "Simplified method of adding toggles, checkmarks, and dividers in new Community Apps",
+                "New beta indicator icon",
+                "Removed the ability for Droptop to show notifications in-bar (Retired feature, replaced with Notification Popups)",
+                "When Droptop is refreshing, the home icon will temporarily change to a new hourglass icon",
+                "Updated translations"
+            ],
+            "bug_fixes": [
+                "Fixed Battery app always displaying 0 brightness when opened",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.360.47",
+            "new_features": [
+                "Added Chinese language translation"
+            ],
+            "modifications": [],
+            "bug_fixes": [
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.360.46",
+            "new_features": [
+                "Added Chinese language translation"
+            ],
+            "modifications": [],
+            "bug_fixes": [
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.360.43",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Additional fixed from previous release"
+            ]
+        },
+        {
+            "version": "4.360.42",
+            "new_features": [
+                "Users can now select a second color for highlight shapes in Community Themes"
+            ],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed Community App/Theme installer creation tool",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.360.13",
+            "new_features": [
+                "Added fade-in animation to all highlight shapes",
+                "Added slide-out animations for submenus",
+                "Added Norwegian language (Thank you @Moball)",
+                "Added weather bar feature for Weather app; Option to toggle on/off",
+                "New notification system"
+            ],
+            "modifications": [
+                "Reduced load time for folder submenus",
+                "Minor changes to Chrome OS, Senja, and Windows 12 themes",
+                "\"Picture in picture\" will now work with YouTube & Droptop",
+                "Removed RTL meter positioning (All languages will now be LTR)",
+                "Settings a folder location for the Downloads app or Folders will now open an Explorer navigation window"
+            ],
+            "bug_fixes": [
+                "Increased stability when navigating menus and the top bar",
+                "Fixed issues with the weather and location data not updating",
+                "Fixed add custom font option",
+                "Many minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.352.63",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fix for issues with Nominatim location service and the Weather app"
+            ]
+        },
+        {
+            "version": "4.351.62",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Update to resolve issues with Nominatim servers and the weather app"
+            ]
+        },
+        {
+            "version": "4.350.41",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed Weather App not updating with latest information"
+            ]
+        },
+        {
+            "version": "4.350.40",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.350.35",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed bug where dragging popout window in WebView apps would be slow on Windows 10 devices",
+                "Fixed rmskin generators not closing automatically when finished (Requires testing)",
+                "Other minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.350.32",
+            "new_features": [],
+            "modifications": [
+                "Finalized new popout menu for WebView apps and integrated option into the app creator"
+            ],
+            "bug_fixes": [
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.350.29",
+            "new_features": [
+                "Added shortcut to Advanced Network Sharing settings to Wifi app",
+                "Added new TopBarBlurCutout variable for themes"
+            ],
+            "modifications": [
+                "Added credit for Hindi language",
+                "Minor modifications to install window for Community Apps",
+                "Update window is now gets Changelog information from droptopfour.com using WebView",
+                "Language and Plugin credits are now scrollable, removed custom credit icons and links for language credits",
+                "Minor improvements to Chrome OS theme",
+                "Removed SystemTray plugin (No longer used)",
+                "Improved appearance of all themes when using Droptop size Mini 3 (100% scale)",
+                "ExcludeDefender.ps1 will no longer be run",
+                "New splash screen when installing Droptop, reduced need for batch scripts during install",
+                "Temporarily removed the shortcuts option in the Paperclip app, causing a crash for an unknown reason when opened",
+                "Added compatibility with new Pop Out option for WebView Community Apps"
+            ],
+            "bug_fixes": [
+                "Fixed bug that prevented the Update window from appearing when installing a new beta update",
+                "Fixed bug that prevented DropdownBar.ini from deactivating when Update window pops up",
+                "Removed an unused line of code that may have been causing a rare crash when the cursor moves away from a dropdown menu",
+                "Minor bug fixes and cosmetic fixes"
+            ]
+        },
+        {
+            "version": "4.350.8",
+            "new_features": [
+                "Double middle-clicking on the \"Update\" button for Community Apps will now dismiss the update notification",
+                "Added Hindi language option (Thank you @S Dheeraj)"
+            ],
+            "modifications": [
+                "Removed the Reload button from WebView apps (Newly created apps only)",
+                "Reduced load-time and reduced fail likelihood of WebView apps",
+                "Added #WebViewBackgroundColor# variable for setting the background color of the WebView window (Defaults to white)",
+                "Added optional variable WebViewHideTop=1 to WebView apps",
+                "Added new #NumberOfActionIcons# variable to WebView apps",
+                "Improved speed when changing websites using the ActionIcon buttons in WebView apps",
+                "Improved performance when using the Home button in WebView apps",
+                "Minor changes to WebView sample app",
+                "When Touchscreen Mode is enabled, click-and-hold options will now be disabled",
+                "Community App install dates will now be based on the #MyAppVersion# variable rather than the date the app was installed.",
+                "Dividers are now shapes instead of strings; Improved appearance",
+                "AppBar.ini will now !Refresh when Explorer.exe PID changes, instead of rebooting Rainmeter",
+                "Divider width is now dependent on divider space between apps and not a separate value",
+                "Renamed \"Divider Width\" to \"Divider Space\" in Theme Builder",
+                "Reduced default height of divider in all themes"
+            ],
+            "bug_fixes": [
+                "Fixed clicking off and quickly opening up an app/dropdown in less than 300ms causing the menu to fail to open",
+                "Fixed dropdowns flickering when dismissing the dropdown by clicking on the desktop wallpaper",
+                "Fixed Update app only showing 5 Community Apps instead of 10",
+                "Fixed a crash bug",
+                "Fixed outline color/stroke width issue with Application section with Top Bar Sections enabled",
+                "Fixed unread emails string when updated not immediately changing the length of the Top Bar Sections"
+            ]
+        },
+        {
+            "version": "4.340.98",
+            "new_features": [
+                "Added new right-click menu to folder dropdowns",
+                "Added larger up/down buttons for scrolling dropdown menus, now appearing on the right side of dropdowns instead of the bottom; Better tap-ability for touchscreens.",
+                "Added new battery info to Battery App and new BatterySaver plugin. Added toggle for turning on Battery Saver to Battery App. (Thank you @KazukiGames82)",
+                "Added Mexican Spanish language option (Thank you @KazukiGames82)"
+            ],
+            "modifications": [
+                "Removed option to show buttons at the bottom of dropdowns",
+                "WebView apps will now load on startup (Not requiring the use of the Refresh button)",
+                "Battery History Graph in Battery App is now a bar graph",
+                "Holding down the Up/Down arrows in dropdown menus will now auto-scroll",
+                "New language select screen in Setup"
+            ],
+            "bug_fixes": [
+                "Fixed WebView apps able to draw outside of the monitor left edge",
+                "Fixed Win+Shift+S and SnippingTool not working with Droptop open",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.340.97",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Minor bug fixes from previous release"
+            ]
+        },
+        {
+            "version": "4.340.91",
+            "new_features": [
+                "Added new right-click menu to folder dropdowns",
+                "Added larger up/down buttons for scrolling dropdown menus, now appearing on the right side of dropdowns instead of the bottom; Better tap-ability for touchscreens.",
+                "Added new battery info to Battery App and new BatterySaver plugin. Added toggle for turning on Battery Saver to Battery App. (Thank you @KazukiGames82)",
+                "Added Mexican Spanish language option (Thank you @KazukiGames82)"
+            ],
+            "modifications": [
+                "Removed option to show buttons at the bottom of dropdowns",
+                "WebView apps will now load on startup (Not requiring the use of the Refresh button)",
+                "Battery History Graph in Battery App is now a bar graph",
+                "Holding down the Up/Down arrows in dropdown menus will now auto-scroll",
+                "New language select screen in Setup"
+            ],
+            "bug_fixes": [
+                "Fixed WebView apps able to draw outside of the monitor left edge",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.340.67",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed App Drawer not working on Windows 10",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.340.65",
+            "new_features": [],
+            "modifications": [
+                "Added latest versions of Community Apps (New installs only)",
+                "Minor changes to WebView app template"
+            ],
+            "bug_fixes": [
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.340.63",
+            "new_features": [
+                "Added new option to Theme Builder for Shadow X & Y Positions; Top Bar now displays drawn shadows when Top Bar Blur is off. Rounded corners and Divide Top Bar into Sections will now work with Top Bar Shadows. Thanks @KazukiGames82"
+            ],
+            "modifications": [
+                "Pomodoro Focus Timer will now display remaining minutes in Alarm app",
+                "Removed MOND as built-in app (Will become Community App). App Drawer is now built-in app (Community app will be removed)",
+                "Droptop bar width will now follow screen width instead of work width (Better compatibility on Windows 11 and future versions of Windows). As a result, Droptop will not resize when Taskbar is on the left or right side of screen (Windows 10 only)",
+                "Updated all language translations",
+                "App positions and dividers will all be reset to their default by this update"
+            ],
+            "bug_fixes": [
+                "Fixed UserAgent error preventing Weather app from parsing data. Thanks @TheyCallMePapa",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.340.40",
+            "new_features": [
+                "Added the ability to add preview images to themes. Themes also now write a GUID if a GUID does not exist for the theme."
+            ],
+            "modifications": [
+                "Shortcut community app will now check for changes (Added or removed shortcuts) every 10 seconds (Latest version of app required)",
+                "Added new option for Community Apps Use `Group=` parameters `UpdateMeasure1M`, `UpdateMeasure10S`, `UpdateMeter1M`, `UpdateMeter10S` in any measures/meters in `BarModifier.inc` to trigger that measure/meter to update every 1 Minute (1M) or 10 seconds (10S)."
+            ],
+            "bug_fixes": [
+                "When clicking on a link in a WebView app, and a new window is opened, the window will now appear above the app (instead of below), while keeping the app itself open",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.340.31",
+            "new_features": [
+                "Right-clicking on the album art in the Volume app will now show options for Song lyrics and Search artist on Wikipedia"
+            ],
+            "modifications": [
+                "Community Apps when compiled will now save a variable called MyAppVersion to VariablesData.inc that stores the current version number of the app",
+                "Disks Community App by Phan no longer be included with new installations, will now include Facebook Messenger app"
+            ],
+            "bug_fixes": [
+                "Top bar will no longer turn black when Battery Saver is enabled and Top Bar Blur is off",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.340.22",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed issue with Community Apps not referencing the correct version number when checking for a new update",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.340.21",
+            "new_features": [],
+            "modifications": [
+                "App Drawer now has support for Windows 11 (Thanks @KazukiGames82!)"
+            ],
+            "bug_fixes": [
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.340.9",
+            "new_features": [],
+            "modifications": [],
+            "bug_fixes": [
+                "Fixed a bug that caused cosmetic errors when making a new WebView app",
+                "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.340.7",
+            "new_features": [
+                "When right-clicking on an app icon in the Toggle & Rearrange Apps dropdown menu, a new popup menu will appear to toggle app on/off, add dividers, and change the app's icon (If the app has variant icons)",
+                "Droptop now supports up to 10 Community Apps at once; Slots 6 through 10 will be locked to the Supporter Version",
+                "New options when making a Community App `App has a dropdown menu`, `App is just a button`, and `Use full color icon`",
+                "Added new shortcut option `Droptop settings >> App settings >> Toggle & rearrange my apps`",
+                "Added new shortcut option `Droptop settings >> Options >> Font >> Adjust font weight`",
+                "When `Divide bar into sections` is enabled, any dividers in the bar will now show a physical separation between apps",
+                "Added new option `Droptop settings >> Options >> Advanced >> Disable notifications`; Disables all text notifications (Including song info) in the top bar",
+                "Various changes and improvements made by @kazukigames82. Thanks!",
+                "New website! https://www.droptopfour.com. Thanks @Bunz !"
+            ],
+            "modifications": [
+                "Removed Search, Assistant, Input Language, and Action Center apps. Now part of Community App \"Functions\" (Download link below)",
+                "Community Apps now only use a single BarModifier file (Update required for ALL Community Apps, update links to be provided soon below)",
+                "BarModifier no longer permits changes to the [CustomAppX] meter, with the exception of the W parameter",
+                "Changed UI font to Urbanist (New installs only)",
+                "`Droptop settings >> App settings` will now only show apps settings for apps that are currently active in the top bar",
+                "Catalina theme now called `Snow Leopard`; Graident shadows now enabled by default (New installs only)",
+                "Updated translations"
+            ],
+            "bug_fixes": [
+                "Fixed bug that prevented \"Add new font\" from working",
+                "Fixed bug that caused the font not to be automatically set after using the  `Add new font` option in settings",
+                "Reduced loading times when navigating the settings menu",
+                "Generating RMSKINs will now be disabled when there is no internet connection (Scripts require an internet connection to run)",
+                "Stability improvements; fixed a bug that would sometimes cause Droptop to crash when moving the cursor quickly back and forth between two dropdown menus",
+                "Various minor bug fixes"
             ]
         },
         {
@@ -218,6 +1024,21 @@
             ],
             "bug_fixes": [
                 "Minor bug fixes"
+            ]
+        },
+        {
+            "version": "4.309.58",
+            "new_features": [
+                "Test 1",
+                "Test 2"
+            ],
+            "modifications": [
+                "Test 1"
+            ],
+            "bug_fixes": [
+                "Test 1",
+                "Test 2",
+                "Test 3"
             ]
         }
     ]
